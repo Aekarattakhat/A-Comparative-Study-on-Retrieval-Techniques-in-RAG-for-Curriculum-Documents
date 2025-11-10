@@ -1,0 +1,1870 @@
+﻿หลักสูตรวิทยาศาสตรบัณฑิต
+สาขาวิชาภูมิสารสนเทศศาสตร์
+(หลักสูตรปรับปรุง พ.ศ. 2565)
+
+วิทยาลัยการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น
+
+หลักสูตรวิทยาศาสตรบัณฑิต
+สาขาวิชาภูมิสารสนเทศศาสตร์
+(หลักสูตรปรับปรุง พ.ศ. 2565)
+
+ปีที่ใช้หลักสูตรเดิม
+พ.ศ. 2560
+
+วิทยาลัยการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น
+
+สารบัญ
+หมวดที่ 3 ระบบการจัดการศึกษา การดำเนินการ และโครงสร้างของหลักสูตร ................................................................................... 4
+1. ระบบการจัดการศึกษา ............................................................................................................................................... 4
+2. การด าเนินการหลักสูตร .............................................................................................................................................. 4
+3. หลักสูตรและอาจารย์ผู้สอน ........................................................................................................................................ 5
+4. องค์ประกอบเกี่ยวกับประสบการณ์ภาคสนาม (การฝึกงานหรือสหกิจศึกษา) ...........................................................34
+5. ข้อก าหนดเกี่ยวกับการท าโครงงานหรืองานวิจัย (ถ้ามี) ............................................................................................35
+หมวดที่ 5 หลักเกณฑ์ในการประเมินผลนักศึกษา ............................................................................................................................. 36
+1. กฎระเบียบหรือหลักเกณฑ์ในการให้ระดับคะแนน ..................................................................................................36
+2. กระบวนการทวนสอบมาตรฐานผลสัมฤทธิ์ของนักศึกษา ........................................................................................36
+3. เกณฑ์การส าเร็จการศึกษาตามหลักสูตร .................................................................................................................36
+หลักสูตรวิทยาศาสตรบัณฑิต
+
+สาขาวิชาภูมิสารสนเทศศาสตร์
+
+(หลักสูตรปรับปรุง พ.ศ. 2565)
+
+ชื่อสถาบันอุดมศึกษา
+มหาวิทยาลัยขอนแก่น
+วิทยาเขต/คณะ/ภาควิชา วิทยาลัยการคอมพิวเตอร์
+
+หมวดที่ 3 ระบบการจัดการศึกษา การด าเนินการ และโครงสร้างของหลักสูตร
+
+1. ระบบการจัดการศึกษา
+1.1 ระบบ
+ระบบการจัดการศึกษาเป็นแบบทวิภาค โดย 1 ปีการศึกษาแบ่งออกเป็น 2 ภาคการศึกษาปกติ 1 ภาคการศึกษาปกติ มี
+ระยะเวลาการศีกษาไม่น้อยกว่า 15 สัปดาห์
+1.2 การจัดการศึกษาภาคพิเศษ (ภาคฤดูร้อน)
+ไม่มี
+1.3 การเทียบเคียงหน่วยกิตในระบบทวิภาค
+ไม่มี
+2. การด าเนินการหลักสูตร
+2.1 วัน-เวลาในการด าเนินการเรียนการสอน
+ภาคการศึกษาต้น เดือนกรกฏาคม – เดือนพฤศจิกายน
+ภาคการศึกษาปลาย เดือนธันวาคม – เดือนเมษายน
+2.2 คุณสมบัติของผู้เข้าศึกษา
+(1) เป็นไปตามประกาศกระทรวงศึกษาธิการ เรื่อง เกณฑ์มาตรฐานหลักสูตรระดับปริญญาตรี พ.ศ. 2558
+(2) เป็นไปตามระเบียบมหาวิทยาลัยขอนแก่น ว่าด้วย การศึกษาขั้นปริญญาตรี พ.ศ. 2562 หมวดที่ 2
+(3) เป็นผู้ส าเร็จการศึกษาระดับมัธยมศึกษาตอนปลายหรือเทียบเท่า
+2.3 ปัญหาของนักศึกษาแรกเข้า
+(1) การปรับตัวจากการเรียนในระดับมัธยมศึกษา มาเป็นการเรียนที่มีรูปแบบแตกต่างไปจากเดิมที่คุ้นเคย มีสังคมกว้างขึ้น
+ต้องดูแลตนเองมากขึ้น
+(2) นักศึกษาในชั้นเรียนมีความรู้พื้นฐานทางด้านคอมพิวเตอร์ที่แตกต่างกัน
+(3) ปัญหาพื้นฐานความรู้วิชาภาษาอังกฤษและคณิตศาสตร์
+2.4 กลยุทธ์ในการด าเนินการเพื่อแก้ไขปัญหา/ข้อจ ากัดของนักศึกษาในข้อ 2.3
+(1) จัดการปฐมนิเทศนักศึกษาใหม่ แนะน าการวางเป้าหมายชีวิต เทคนิคการเรียนในมหาวิทยาลัย และการแบ่งเวลา
+นอกจากนี้ได้ด าเนินการมอบหมายหน้าที่อาจารย์ที่ปรึกษาให้แก่อาจารย์ทุกคน ท าหน้าที่สอดส่องดูแล ตักเตือน ให้ค าแนะน าแก่
+นักศึกษา และมีการจัดกิจกรรมที่เกี่ยวข้องกับการสร้างความสัมพันธ์ของนักศึกษา
+(2) จัดการการเรียนการสอนเพิ่มเติมเพื่อปรับพื้นฐานให้แก่นักศึกษา เช่น จัดกิจกรรมรุ่นพี่ติวรุ่นน้องและจัดกิจกรรมสอนเสริม
+ถ้าจ าเป็น เป็นต้น
+2.5 แผนการรับนักศึกษาและผู้ส าเร็จการศึกษาในระยะ 5 ปี
+
+จ านวนนักศึกษา
+จ านวนนักศึกษาแต่ละปีการศึกษา
+ชั้นปีที่ 1
+ชั้นปีที่ 2
+-
+ชั้นปีที่ 3
+-
+-
+ชั้นปีที่ 4
+-
+-
+-
+รวม
+คาดว่าจะส าเร็จการศึกษา
+-
+-
+-
+2.6 งบประมาณตามแผน
+
+ประมาณการรายรับ
+ปีงบประมาณ
+ค่าธรรมเนียมการศึกษา
+1,920,000
+3,840,000
+5,760,000
+7,680,000
+7,680,000
+รวมรายรับ
+1,920,000
+3,840,000
+5,760,000
+7,680,000
+7,680,000
+ประมาณการรายจ่าย
+ปีงบประมาณ
+งบใช้สอย ตอบแทนและวัสดุ
+264,000
+528,000
+792,000
+1,056,000
+1,056,000
+งบครุภัณฑ์
+264,000
+528,000
+792,000
+1,056,000
+1,056,000
+งบด าเนินการ (พัฒนาการเรียนการ
+สอน พัฒนานักศึกษา ทุนฯลฯ)
+528,000
+1,056,000
+1,584,000
+2,112,000
+2,112,000
+กองทุนส่งเสริมฯ
+384,000
+768,000
+1,152,000
+1,536,000
+1,536,000
+รวมรายจ่าย
+1,440,000
+2,880,000
+4,320,000
+5,760,000
+5,760,000
+ประมาณการค่าใช้จ่ายต่อหัวนักศึกษาต่อหลักสูตร = 96,000 บาท/หลักสูตร
+ประมาณการค่าใช้จ่ายต่อหัวนักศึกษาต่อปีการศึกษา = 24,000 บาท/ปีการศึกษา
+2.7 ระบบการศึกษา
+ระบบการศึกษาเป็นแบบชั้นเรียน และระบบออนไลน์
+2.8 การเทียบโอนหน่วยกิต รายวิชาและการลงทะเบียนเรียนข้ามมหาวิทยาลัย
+ให้เป็นไปตามประกาศมหาวิทยาลัยขอนแก่น (ฉบับที่ 766/2549) ว่าด้วย การเทียบโอนรายวิชาและค่าคะแนนของรายวิชาระดับ
+ปริญญาตรีจากการศึกษาในระบบและระเบียบมหาวิทยาลัยขอนแก่นว่าด้วย การลงทะเบียนเรียนข้ามมหาวิทยาลัย พ.ศ. 2541 หรือ
+เป็นไปตามระเบียบหรือประกาศ ที่จะปรับปรุงใหม่
+3. หลักสูตรและอาจารย์ผู้สอน
+3.1 หลักสูตร
+3.1.1 จ านวนหน่วยกิต รวมตลอดหลักสูตร 127 หน่วยกิต
+3.1.2 โครงสร้างหลักสูตร
+จ านวนหน่วยกิตรวมตลอดหลักสูตร
+หน่วยกิต
+1. หมวดวิชาศึกษาทั่วไป
+หน่วยกิต
+1.1 กลุ่มวิชาภาษา
+หน่วยกิต
+1.2 กลุ่มวิชามนุษยศาสตร์และสังคมศาสตร์
+หน่วยกิต
+1.3 กลุ่มวิชาคณิตศาสตร์และวิทยาศาสตร์
+หน่วยกิต
+2. หมวดวิชาเฉพาะ
+หน่วยกิต
+2.1 วิชาพื้นฐานหรือวิชาแกน
+หน่วยกิต
+2.2 วิชาเฉพาะด้าน
+หน่วยกิต
+2.2.1 วิชาบังคับ
+หน่วยกิต
+2.2.2 วิชาโครงงานหรือสหกิจศึกษา
+หน่วยกิต
+2.2.3 วิชาเลือกสาขาวิชา
+หน่วยกิต
+3. หมวดวิชาเลือกเสรี
+หน่วยกิต
+3.1.3 รายวิชา
+3.1.3.1 หมวดวิชาศึกษาทั่วไป (General Education Courses) 30 หน่วยกิต
+(1) กลุ่มวิชาภาษา
+12 หน่วยกิต
+**LI 101 001 ภาษาอังกฤษ 1
+3(3-0-6)
+English I
+
+**LI 101 002 ภาษาอังกฤษ2
+3(3-0-6)
+English II
+
+**LI 102 003 ภาษาอังกฤษ3
+3(3-0-6)
+English III
+
+**LI 102 004 ภาษาอังกฤษ4
+3(3-0-6)
+
+English IV
+
+(2) กลุ่มวิชามนุษยศาสตร์และสังคมศาสตร์ 6 หน่วยกิต
+**GE 142 145 ภาวะผู้น าและการจัดการ
+3(3-0-6)
+Leadership and Management
+
+*GE 362 198 พลังงานและสิ่งแวดล้อม
+3(3-0-6)
+Energy and Environment
+
+(3) กลุ่มวิชาคณิตศาสตร์และวิทยาศาสตร์ 12 หน่วยกิต
+**GE 321 415 ทักษะการเรียนรู้
+3(3-0-6)
+Learning Skills
+
+**GE 362 785 การคิดเชิงสร้างสรรค์และการแก้ปัญหา
+3(3-0-6)
+Creative Thinking and Problem Solving
+
+*GE 341 511 การคิดเชิงค านวณและเชิงสถิติส าหรับเอบีซีดี
+3(2-2-5)
+Computational & Statistical Thinking for ABCD
+
+*GE 341 512 เอบีซีดีส าหรับทุกวิชาชีพ
+3(2-2-5)
+ABCD for All Professions
+
+3.1.3.2 หมวดวิชาเฉพาะ (Core Courses) 91 หน่วยกิต
+(1) กลุ่มวิชาพื้นฐานหรือวิชาแกน 34 หน่วยกิต
+**SC 101 009 ชีววิทยาส าหรับวิทยาศาสตร์กายภาพ
+3(3-0-6)
+Biology For Physical Science
+
+**SC 101 010 ปฏิบัติการชีววิทยาส าหรับวิทยาศาสตร์กายภาพ
+1(0-2-1)
+Biology For Physical Science Laboratory
+**SC 201 008 เคมีหลักมูล
+3(3-0-6)
+Fundamental Chemistry
+
+**SC 201 006 ปฏิบัติการเคมีทั่วไป
+1(0-3-2)
+
+General Chemistry Laboratory
+
+**CP 350 001 การเขียนโปรแกรมคอมพิวเตอร์ 1
+3(2-2-5)
+Computer Programming I
+
+**CP 350 002 โครงสร้างข้อมูล
+3(3-0-6)
+Data Structure
+
+**CP 372 032 ระบบจัดการฐานข้อมูลและการออกแบบฐานข้อมูล
+3(3-0-6)
+Database Management System and Database Design
+
+**CP 372 032 ปฏิบัติการระบบฐานข้อมูลและการออกแบบ
+1(0-2-2)
+
+Database Management System and Database Design
+Laboratory
+
+**SC 401 006 คณิตศาสตร์ทั่วไป 3(3-0-6)
+
+General Mathematics
+
+**SC 402 101 พีชคณิตเชิงเส้น 1
+3(3-0-6)
+
+Linear Algebra I
+
+**SC 501 000 ฟิสิกส์เบื้องต้น
+3(3-0-6)
+
+Elementary Physics
+
+**SC 501 003 ปฏิบัติการฟิสิกส์ทั่วไป 1
+1(0-3-2)
+
+General Physics Laboratory I
+
+**SC 602 007 สถิติส าหรับวิทยาศาสตร์กายภาพ
+3(3-0-6)
+
+Statistics for Physical Science
+
+**SC 902 201 วิทยาศาสตร์สิ่งแวดล้อม
+3(3-0-6)
+
+Environmental Science
+
+(2) หมวดวิชาเฉพาะด้าน (Required Courses) 57 หน่วยกิต
+(2.1) กลุ่มวิชาบังคับ 36 หน่วยกิต
+**CP 371 001 หลักมูลภูมิสารสนเทศศาสตร์
+3(3-0-6)
+Fundamentals of Geo-informatics
+
+**CP 371 031 เทคโนโลยีสารสนเทศขั้นพื้นฐาน
+3(2-2-5)
+Basics of Information Technology
+
+**CP 371 041 ภูมิศาสตร์กายภาพ
+3(3-0-6)
+
+Physical Geography
+
+**CP 372 002 ระบบสารสนเทศภูมิศาสตร์ขั้นแนะน า
+3(2-3-6)
+Introduction to Geographic Information System
+
+**CP 372 011 หลักมูลการรับรู้จากระยะไกล
+3(2-3-6)
+Fundamentals of Remote Sensing
+
+**CP 372 012 การประมวลผลเชิงเลขของข้อมูลจากดาวเทียม
+3(2-3-6)
+Digital Processing of Satellite Data
+
+**CP 372 021 ระบบดาวเทียมน าทางสากลขั้นแนะน า
+3(2-2-5)
+Introduction to Global Navigation Satellite System
+
+**CP 373 003 หลักการท าแผนที่
+3(2-3-6)
+Principles of Cartography
+
+**CP 373 004 ภูมิสารสนเทศศาสตร์ประยุกต์
+3(2-3-6)
+Applied Geo-informatics
+
+**CP 373 032 การเขียนโปรแกรมในระบบสารสนเทศภูมิศาสตร์
+3(2-3-6)
+Programming in Geographic Information System
+
+**CP 373 042 การวางแผนการใช้ที่ดินขั้นแนะน า
+3(3-0-6)
+Introduction to Land Use Planning
+
+**CP 373 701 ระเบียบวิธีวิจัยในภูมิสารสนเทศศาสตร์
+3(3-0-6)
+Research Methodology in Geo-informatics
+
+(2.2) กลุ่มวิชาโครงงานหรือสหกิจศึกษา
+นักศึกษาต้องเลือกเรียนในกลุ่มวิชาโครงงานหรือสหกิจศึกษา จ านวน 6 หน่วยกิต
+ก. กลุ่มวิชาโครงงานวิจัย
+*CP 374 702 โครงงานวิจัยในภูมิสารสนเทศศาสตร์ 1
+3(0-9-6)
+Research Project in Geo-Informatics I
+
+*CP 374 703 โครงงานวิจัยในภูมิสารสนเทศศาสตร์ 2
+3(0-9-6)
+Research Project in Geo-Informatics II
+
+ข. กลุ่มวิชาสหกิจศึกษา
+นักศึกษาที่เลือกลงในกลุ่มวิชาสหกิจศึกษาต้องมีเงื่อนไขดังนี้
+1) ผ่านการเรียนวิชา CP 002 001
+2) ผ่านการเรียนวิชา CP 373 784
+**CP 002 001 การเตรียมความพร้อมก่อนปฏิบัติงานสหกิจศึกษาส าหรับนักศึกษา
+วิทยาลัยการคอมพิวเตอร์
+1(0-2-2)*
+(ไม่นับหน่วยกิต)
+Orientation to Co-Operative Education for Computing
+Students
+*CP 373 784 การฝึกงานทางภูมิสารสนเทศศาสตร์
+3(0-9-5)*
+Internship in Geo-Informatics
+(ไม่นับหน่วยกิต)
+**CP 374 785 สหกิจศึกษาทางภูมิสารสนเทศศาสตร์
+6(0-18-9)
+Co-Operative Education in Geo-Infromatics
+
+(2.3) กลุ่มวิชาเลือกสาขาวิชา 15 หน่วยกิต
+วิชาเลือกแบ่งออกเป็น 2 กลุ่ม ประกอบด้วย 1 กลุ่มวิชาภูมิสารสนเทศศาสตร์ประยุกต์ 2 กลุ่มวิชาการ
+ออกแบบและพัฒนาระบบสารสนเทศภูมิศาสตร์ โดย
+กลุ่มที่ 1 กลุ่มวิชาภูมิสารสนเทศศาสตร์ประยุกต์ ต้องเลือกเรียนรายวิชาในกลุ่มที่ 1 อย่างน้อย 12 หน่วย
+กิต และเลือกกลุ่มที่ 2 ไม่น้อยกว่า 3 หน่วยกิต
+กลุ่มที่ 2 กลุ่มวิชาการออกแบบและพัฒนาระบบสารสนเทศภูมิศาสตร์ ต้องเลือกเรียนรายวิชาในกลุ่มที่ 2
+ไม่น้อยกว่า 9 หน่วยกิต และเลือกเรียนในกลุ่มที่ 1 ไม่น้อยกว่า 6 หน่วยกิต
+ทั้งนี้ รายวิชาเลือกสาขารวมถึงรายวิชาอื่น ๆ ที่มีการเปิดเพิ่มในภายหลัง
+ก. กลุ่มวิชาภูมิสารสนเทศศาสตร์ประยุกต์
+**CP 373 101 การวางผังเมืองและภูมิสารสนเทศศาสตร์
+3(3-0-6)
+City Planning and Geo-informatics
+
+**CP 373 111 การรับรู้จากระยะไกลด้วยคลื่นไมโครเวฟขั้นแนะน า
+3(3-0-6)
+Introduction to Microwave Remote Sensing
+
+*CP 373 112 การท าแผนที่ด้วยอากาศยานไร้คนขับ
+3(2-3-6)
+Unmanned Aerial Vehicle Mapping
+
+**CP 373 122 การส ารวจรังวัดเบื้องต้น
+3(2-3-6)
+Introduction to Surveying
+
+ข. กลุ่มวิชาการออกแบบและพัฒนาระบบสารสนเทศภูมิศาสตร์
+**CP 373 201 การวิเคราะห์เชิงพื้นที่
+3(2-3-6)
+Geospatial Analysis
+
+**CP 373 231 การประยุกต์ท าแผนที่บนเว็บ
+3(2-3-6)
+Web Mapping Application
+
+**CP 373 232 การจัดการฐานข้อมูลเชิงพื้นที่
+3(2-3-6)
+Spatial Database Management
+
+3.1.3.3 หมวดวิชาเลือกเสรี (Free Elective Courses)
+ให้นักศึกษาลงทะเบียนเรียนรายวิชาเลือกเสรีที่เปิดสอนในมหาวิทยาลัยขอนแก่น โดยได้รับความเห็นชอบจากคณะ
+กรรมการบริหารหลักสูตร จ านวนไม่น้อยกว่า 6 หน่วยกิต
+
+ค าอธิบายระบบรหัสวิชา
+ระบบรหัสวิชาใช้ตามระบบของมหาวิทยาลัยขอนแก่น ซึ่งใช้ระบบตัวเลขล้วนจ านวน 6 หลัก XXX XXX โดยมีความหมาย ดังนี้
+ตัวอักษรภาษาอังกฤษ CP สองตัวแรก แสดงอักษรย่อชื่อ วิทยาลัยการคอมพิวเตอร์
+ตัวอักษรภาษาอังกฤษ LI สองตัวแรก แสดงอักษรย่อชื่อ สถาบันภาษา มหาวิทยาลัยขอนแก่น
+ตัวอักษรภาษาอังกฤษ GE สองตัวแรก แสดงอักษรย่อชื่อ สถาบันการสอนวิชาศึกษาทั่วไป มหาวิทยาลัยขอนแก่น
+ตัวอักษรภาษาอังกฤษ SC สองตัวแรก แสดงอักษรย่อชื่อ คณะวิทยาศาสตร์ มหาวิทยาลัยขอนแก่น
+ตัวเลข XXX XXX สองตัวแรก แสดงรหัสสาขาวิชาหรือหลักสูตรในคณะ
+10X
+แสดงรหัสสาขาวิชาชีววิทยา
+20X
+แสดงรหัสสาขาวิชาเคมี
+35X, 31X
+แสดงรหัสสาขาวิชาวิทยาการคอมพิวเตอร์
+36X, 32X
+แสดงรหัสสาขาวิชาเทคโนโลยีสารสนเทศ
+37X, 33X
+แสดงรหัสสาขาวิชาภูมิสารสนเทศศาสตร์
+40X
+แสดงรหัสสาขาวิชาคณิตศาสตร์
+50X
+แสดงรหัสสาขาวิชาฟิสิกส์
+60X
+แสดงรหัสสาขาวิชาสถิติ
+90X
+แสดงรหัสสาขาวิชาวิทยาศาสตร์สิ่งแวดล้อม
+ตัวเลขหลักที่ 3
+แสดงระดับของวิชา
+เลข 1
+แสดงวิชาระดับปริญญาตรี ชั้นปีที่ 1
+เลข 2
+แสดงวิชาระดับปริญญาตรี ชั้นปีที่ 2
+เลข 3
+แสดงวิชาระดับปริญญาตรี ชั้นปีที่ 3
+เลข 4
+แสดงวิชาระดับปริญญาตรี ชั้นปีที่ 4
+ตัวเลขหลักที่ 4
+แสดงกลุ่มของรายวิชา
+เลข 0
+แสดงวิชาหมวดบังคับ
+เลข 1
+แสดงวิชาเลือกกลุ่มภูมิสารสนเทศศาสตร์ประยุกต์
+เลข 2
+แสดงวิชาเลือกกลุ่มการออกแบบและพัฒนาระบบสารสนเทศภูมิศาสตร์
+เลข 7
+แสดงวิชาสัมมนา ระเบียบวิธีวิจัย ปัญหาพิเศษ สหกิจศึกษา ฝึกงาน โครงงาน
+เลข 3 - 6 และ 8 - 9
+แสดงวิชาในหมวดการใช้ในอนาคต
+ตัวเลขหลักที่ 5
+แสดงองค์ความรู้ของรายวิชา
+เลข 0
+แสดงวิชาด้านระบบสารสนเทศภูมิศาสตร์
+เลข 1
+แสดงวิชาด้านการรับรู้จากระยะไกล
+เลข 2
+แสดงวิชาด้านระบบระบบดาวเทียมน าทางสากลและการส ารวจ
+เลข 3
+แสดงวิชาด้านเทคโนโลยีสารสนเทศและการพัฒนาระบบ
+เลข 4
+แสดงวิชาด้านสิ่งแวดล้อม
+เลข 5 - 9
+แสดงวิชาในหมวดการใช้ในอนาคต
+ตัวเลขหลักที่ 6
+แสดงล าดับวิชา
+ยกเว้นที่ส ารองส าหรับลักษณะวิชาทั่วไปดังต่อไปนี้
+วิชาฝึกงาน
+วิชาสหกิจศึกษา
+*
+รายวิชาใหม่
+**
+รายวิชาเปลี่ยนแปลง
+3.1.4 ตัวอย่างแผนการศึกษา
+ปีที่ 1 ภาคการศึกษาที่ 1
+หน่วยกิต
+
+**LI 101 001 ภาษาอังกฤษ 1
+3(3-0-6)
+
+English I
+
+*GE 321 415 การคิดเชิงค านวณและเชิงสถิติส าหรับเอบีซีดี
+3(2-2-5)
+
+Computational & Statistical Thinking for ABCD
+
+**GE 321 415 ทักษะการเรียนรู้
+3(3-0-6)
+
+Learning Skills
+
+**SC 101 009 ชีววิทยาส าหรับวิทยาศาสตร์กายภาพ
+3(3-0-6)
+
+Biology For Physical Science
+
+**SC 101 010 ปฏิบัติการชีววิทยาส าหรับวิทยาศาสตร์กายภาพ
+1(0-2-1)
+
+Biology For Physical Science Laboratory
+
+**CP 371 001 หลักมูลภูมิสารสนเทศศาสตร์
+3(3-0-6)
+Fundamentals of Geo-informatics
+
+**CP 371 031 เทคโนโลยีสารสนเทศขั้นพื้นฐาน
+3(2-2-5)
+
+Basics of Information Technology
+
+รวมจ านวนหน่วยกิตลงทะเบียนเรียน 19
+หน่วยกิต
+
+รวมจ านวนหน่วยกิตสะสม 19 หน่วยกิต
+
+ปีที่ 1 ภาคการศึกษาที่ 2
+หน่วยกิต
+
+**LI 101 002 ภาษาอังกฤษ 2
+3(3-0-6)
+
+English II
+
+*GE 341 512 เอบีซีดีส าหรับทุกวิชาชีพ
+3(2-2-5)
+
+ABCD for All Professions
+
+**SC 201 006 ปฏิบัติการเคมีทั่วไป
+1(0-3-2)
+
+General Chemistry Laboratory
+
+**SC 201 008 เคมีหลักมูล
+3(3-0-6)
+
+Fundamental Chemistry
+
+**CP 350 001 การเขียนโปรแกรมคอมพิวเตอร์ 1
+3(2-2-5)
+
+Computer Programming I
+
+**SC 401 006 คณิตศาสตร์ทั่วไป
+3(3-0-6)
+
+General Mathematics
+
+**SC 371 041 ภูมิศาสตร์กายภาพ
+3(3-0-6)
+
+Physical Geography
+
+รวมจ านวนหน่วยกิตลงทะเบียนเรียน 19 หน่วยกิต
+
+รวมจ านวนหน่วยกิตสะสม 38 หน่วยกิต
+ปีที่ 2 ภาคการศึกษาที่ 1
+หน่วยกิต
+
+**LI 101 003 ภาษาอังกฤษ 3
+3(3-0-6)
+
+English III
+
+**GE 362 785 การคิดเชิงสร้างสรรค์และการแก้ปัญหา
+3(3-0-6)
+
+Creative Thinking and Problem Solving
+
+**CP 350 002 โครงสร้างข้อมูล
+3(3-0-6)
+
+Data Structure
+
+**SC 501 000 ฟิสิกส์เบื้องต้น
+3(3-0-6)
+
+Elementary Physics
+
+**SC 501 003 ปฏิบัติการฟิสิกส์ทั่วไป 1
+1(0-3-2)
+
+General Physics Laboratory I
+
+**CP 372 002 ระบบสารสนเทศภูมิศาสตร์ขั้นแนะน า
+3(2-3-6)
+
+Introduction to Geographic Information System
+
+**CP 372 011 หลักมูลการรับรู้จากระยะไกล
+3(2-3-6)
+
+Fundamentals of Remote Sensing
+รวมจ านวนหน่วยกิตลงทะเบียนเรียน 19 หน่วยกิต
+
+รวมจ านวนหน่วยกิตสะสม 57 หน่วยกิต
+
+ปีที่ 2 ภาคการศึกษาที่ 2
+หน่วยกิต
+
+**LI 102 004 ภาษาอังกฤษ 4
+3(3-0-6)
+
+English IV
+
+**GE 142 145 ภาวะผู้น าและการจัดการ
+3(3-0-6)
+
+Leadership and Management
+
+**CP 372 032 ระบบจัดการฐานข้อมูลและการออกแบบฐานข้อมูล
+3(3-0-6)
+
+Database Management System and Database Design
+
+**CP 372 033 ปฏิบัติการระบบฐานข้อมูลและการออกแบบ
+1(0-2-2)
+
+Database Management System and Database Design Laboratory
+
+**SC 402 101 พีชคณิตเชิงเส้น 1
+3(3-0-6)
+
+Linear Algebra I
+
+**CP 372 012 การประมวลผลเชิงเลขของข้อมูลจากดาวเทียม
+3(2-3-6)
+
+Digital Processing of Satellite Data
+
+**CP 372 021 ระบบดาวเทียมน าทางสากลขั้นแนะน า
+3(2-2-5)
+
+Introduction to Global Navigation Satellite System
+
+รวมจ านวนหน่วยกิตลงทะเบียนเรียน 19 หน่วยกิต
+
+รวมจ านวนหน่วยกิตสะสม 76 หน่วยกิต
+ปีที่ 3 ภาคการศึกษาที่ 1
+หน่วยกิต
+
+**CP 373 032 การเขียนโปรแกรมในระบบสารสนเทศภูมิศาสตร์
+3(2-3-6)
+
+Programming in Geographic Information System
+
+**CP 373 042 การวางแผนการใช้ที่ดินขั้นแนะน า
+3(3-0-6)
+
+Introduction to Land Use Planning
+
+**SC 602 007 สถิติส าหรับวิทยาศาสตร์กายภาพ
+3(3-0-6)
+
+Statistics for Physical Science
+
+**SC 902 201 วิทยาศาสตร์สิ่งแวดล้อม
+3(3-0-6)
+
+Environmental Science
+
+CP 373 XXX วิชาเลือกสาขา
+6 หน่วยกิต
+
+Elective Courses
+
+รวมจ านวนหน่วยกิตลงทะเบียนเรียน 18 หน่วยกิต
+
+รวมจ านวนหน่วยกิตสะสม 94 หน่วยกิต
+ปีที่ 3 ภาคการศึกษาที่ 2
+หน่วยกิต
+
+*GE 362 198 พลังงานและสิ่งแวดล้อม
+3(3-0-6)
+
+Energy and Environment
+
+**CP 373 003 หลักการท าแผนที่
+3(2-3-6)
+
+Principles of Cartography
+
+**CP 373 004 ภูมิสารสนเทศศาสตร์ประยุกต์
+3(2-3-6)
+
+Applied Geo-informatics
+
+**CP 373 701 ระเบียบวิธีวิจัยในภูมิสารสนเทศศาสตร์
+3(3-0-6)
+
+Research Methodology in Geo-informatics
+
+CP 373 XXX วิชาเลือกสาขา
+9 หน่วยกิต
+
+Elective Courses
+
+รวมจ านวนหน่วยกิตลงทะเบียนเรียน 21 หน่วยกิต
+
+รวมจ านวนหน่วยกิตสะสม 115 หน่วยกิต
+
+ส าหรับนักศึกษาที่จะเลือกแผนสหกิจศึกษาให้ลงเพิ่มอีก 2 รายวิชา
+
+**CP 002 001 การเตรียมความพร้อมก่อนปฏิบัติงานสหกิจศึกษาส าหรับนักศึกษาวิทยาลัย
+การคอมพิวเตอร์
+1(0-2-2)*
+(ไม่นับหน่วยกิต)
+
+Orientation to Co-Operative Education for Computing Students
+
+*CP 373 784 การฝึกงานทางภูมิสารสนเทศศาสตร์
+3(0-9-5)*
+
+Internship in Geo-Informatics
+(ไม่นับหน่วยกิต)
+ปีที่ 4 ภาคการศึกษาที่ 1
+
+แบบเลือกเรียนวิชาโครงงานวิจัยในภูมิสารสนเทศศาสตร์
+แบบเลือกเรียนวิชาสหกิจศึกษา
+*CP 374 702 โครงงานวิจัยในภูมิ
+สารสนเทศศาสตร์ 1
+3(0-9-6)
+XXX XXX
+วิชาเลือกเสรี
+6 หน่วยกิต
+
+Research Project in
+Geo-Informatics I
+
+Free Electives
+
+XXX XXX
+วิชาเลือกเสรี
+6 หน่วยกิต
+
+Free Electives
+
+รวมจ านวนหน่วยกิตลงทะเบียนเรียน 9 หน่วยกิต
+รวมจ านวนหน่วยกิตลงทะเบียนเรียน 6 หน่วยกิต
+
+รวมจ านวนหน่วยกิตสะสม 124 หน่วยกิต
+รวมจ านวนหน่วยกิตสะสม 121 หน่วยกิต
+ปีที่ 4 ภาคการศึกษาที่ 2
+
+แบบเลือกเรียนวิชาโครงงานวิจัยในภูมิสารสนเทศศาสตร์
+แบบเลือกเรียนวิชาสหกิจศึกษา
+*CP 374 703 โครงงานวิจัยในภูมิ
+สารสนเทศศาสตร์ 2
+3(0-9-6)
+**CP 374 785
+สหกิจศึกษาทางภูมิ
+สารสนเทศศาสตร์
+6(0-18-9)
+
+Research Project in
+Geo-Informatics II
+
+Co-Operative
+Education in Geo-
+Infromatics
+
+รวมจ านวนหน่วยกิตลงทะเบียนเรียน 3 หน่วยกิต
+รวมจ านวนหน่วยกิตลงทะเบียนเรียน 6 หน่วยกิต
+
+รวมจ านวนหน่วยกิตสะสม 127 หน่วยกิต
+รวมจ านวนหน่วยกิตสะสม 127 หน่วยกิต
+หมายเหตุ หลักสูตรภูมิสารสนเทศศาสตร์ อาจจะพิจารณาเปิดรายวิชาสหกิจศึกษาทั้งภาคต้นและภาคปลาย
+3.1.5 ค าอธิบายรายวิชา
+
+**GE 142 145 ภาวะผู้น าและการจัดการ
+3(3-0-6)
+Leadership and Management
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+แนวความคิดและทฤษฏีเกี่ยวกับภาวะผู้น า บุคลิกภาพ ลักษณะและบทบาทผู้น า การสร้างทีมงานและ
+การท างานเป็นทีม หลักการและทฤษฏีการจัดการ การจัดการตัวเอง การจัดการกับภาวะวิกฤต การจัดการ
+กับการเปลี่ยนแปลง การจัดการกับการขัดแย้ง การจัดการเชิงกลยุทธ์ แนวทางในการพัฒนาทักษะการเป็น
+ผู้น า และการจัดการ
+Concepts and theories of leadership, personalities, characteristics and roles of
+leadership, team building and team working, principle and theories of management, self-
+management, crisis management, change management, conflict management, strategic
+management, development of leadership and management
+
+**GE 321 415 ทักษะการเรียนรู้
+3(3-0-6)
+Learning Skills
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+แนวคิดและความส าคัญของทักษะการเรียนรู้ในศตวรรษที่ 21 การรู้ดิจิทัล การคิดเชิงวิเคราะห์ การ
+คัดสรรแหล่งสารสนเทศ การแสวงหาสารสนเทศ การประเมิน วิเคราะห์ การเขียนและน าเสนอในเชิงวิชาการ
+จรรยาบรรณและความเที่ยงตรงทางวิชาการ
+Concept and importance of the 21st century learning skills, digital literacy, analytical
+thinking, selection of information sources, information seeking, evaluation, analysis, academic
+writing and presentation, academic ethics and integrity
+
+*GE 341 511 การคิดเชิงค านวณและเชิงสถิติส าหรับเอบีซีดี
+3(2-2-5)
+Computational & Statistical Thinking for ABCD
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+แนวคิดเกี่ยวกับการคิดเชิงค านวณและเชิงสถิติส าหรับการแก้ปัญหา การวิเคราะห์สถานการณ์ปัญหา
+หลักการสร้างขั้นตอนวิธีและโมเดล เทคโนโลยีดิจิทัลและเครื่องมือในการแก้ปัญหา การเขียนโปรแกรมและ
+กระบวนการแก้ปัญหา การประเมินผลและปรับปรุงกระบวนการแก้ปัญหา จริยธรรมทางวิชาการ การเขียนใน
+เชิงวิชาการ การน าเสนอ
+Concepts of computational and statistical thinking for problem solving, analyzing the
+problem situations, producing algorithms and models, digital technology and tools for
+problem solving, programming and problem solving process, assessment and improvement
+of problem solving process, academic ethics, academic writing, presentation and critique
+
+*GE 341 512 เอบีซีดีส าหรับทุกวิชาชีพ
+3(2-2-5)
+ABCD for All Professions
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+แนะน าเทคโนโลยีดิจิทัลส าหรับการจัดการข้อมูล การประมวลผลข้อมูล การประยุกต์ใช้
+ปัญญาประดิษฐ์ การประมวลผลแบบกลุ่มเมฆ การรักษาความมั่นคงและความเป็นส่วนตัวของข้อมูล สกุลเงิน
+ดิจิทัลขั้นแนะน า บล็อกเชนขั้นแนะน า สัญญาอัจฉริยะขั้นแนะน า ตัวอย่างการประยุกต์ใช้ในด้านต่างๆ
+Introduction to digital technology for data management, data processing, applying
+artificial intelligence, cloud computing, data security and data privacy, introduction of
+cryptocurrency, introduction of blockchain, introduction of smart contract, example
+applications in various areas
+
+*GE 362 198 พลังงานและสิ่งแวดล้อม
+3(3-0-6)
+
+Energy and Environment
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+ธรรมชาติของพลังงานและสิ่งแวดล้อม ผลกระทบของโลกาภิวัตน์ที่มีต่อสถานการณ์พลังงานและ
+สิ่งแวดล้อม ผลของการใช้พลังงานต่อชีวิตและสิ่งแวดล้อม หลักของการป้องกันและวิธีแก้ปัญหาด้านพลังงาน
+และสิ่งแวดล้อม กรณีศึกษาปัญหาด้านพลังงานและสิ่งแวดล้อมในปัจจุบัน
+Nature of energy and environment, impacts of globalization on energy and
+environment situation, resultof energy consumption and environment, principle of
+prevention and solution for energy and environment, case studies on the current problems
+in energy and environment
+
+**GE 362 785 การคิดเชิงสร้างสรรค์และการแก้ปัญหา
+3(3-0-6)
+Creative Thinking and Problem Solving
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+หลักการ แนวคิด และกระบวนการคิดเชิงสร้างสรรค์ การแสวงหาข้อมูลและความรู้ การให้เหตุผล
+การตัดสินใจ เทคนิคการคิดเชิงสร้างสรรค์ การประยุกต์การคิดทางคณิตศาสตร์วิทยาศาสตร์และสังคมศาสตร์
+ส าหรับการแก้ปัญหา
+Principle, concept and process of creative thinking, information and knowledge
+seeking, reasoning, decision making, techniques of creative thinking, application of
+mathematic, scientific, and social thinking for problem solving
+**LI 101 001 ภาษาอังกฤษ 1
+3(3-0-6)
+English I
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+พัฒนาทักษะการอ่าน เขียน พูด ฟัง ในชีวิตประจ าวัน การเล่าเรื่องราวเกี่ยวกับตนเอง การแสดง
+ความรู้สึก การบรรยายบุคลิกภาพ การบรรยายลักษณะคน สิ่งของ สถานที่ การตรวจสอบความเข้าใจ
+ความหมาย การบอกเล่าประสบการณ์ (โดยรวมเนื้อหาระดับ 1 ถึงระดับ 5)
+Development of reading, writing, speaking, and listening skills for use in every-day life;
+expressing feeling; describing personalities, human characteristics, objects, places; inspecting
+and understanding meanings and relating experiences (Level 1 to 5)
+
+**LI 101 002 ภาษาอังกฤษ 2
+3(3-0-6)
+English II
+
+เงื่อนไขของรายวิชา : 000 101 หรือ LI 101 001 หรือ เทียบเท่า#
+
+ทักษะการฟัง พูด อ่าน เขียน ในบริบทเชิงวิชาการเบื้องต้น การแสดงความรู้สึก การตั้งค าถาม การ
+เปรียบเทียบ และการแสดงความคิดเห็น (โดยรวมเนื้อหาระดับ 2 ถึงระดับ 6)
+Listening, speaking, reading and writing skills in basic academic contexts; expressing
+feeling, asking questions, making comparison and contrast; and expressing ideas. (Level 2 to
+6)
+
+**LI 102 003 ภาษาอังกฤษ 3
+3(3-0-6)
+English III
+
+เงื่อนไขของรายวิชา : 000 102 หรือ LI 101 002 หรือ เทียบเท่า#
+
+ทักษะการฟัง พูด อ่าน เขียน เชิงวิชาการ การน าเสนอ การอภิปราย การแสดงความคิดเห็น การ
+ตีความ การเข้าใจความหมายจากบริบท การจับใจความส าคัญ (โดยรวมเนื้อหาระดับ 3 ถึงระดับ 7)
+Academic English skills in listening, speaking, reading, writing, presentation, discussion,
+expressing ideas, interpretation, understanding context clues, finding main ideas (Level 3 to
+7)
+
+**LI 102 004 ภาษาอังกฤษ 4
+3(3-0-6)
+English IV
+
+เงื่อนไขของรายวิชา : 000 103 หรือ LI 102 003 หรือ เทียบเท่า#
+
+ทักษะการฟัง พูด อ่าน เขียนเชิงวิชาการขั้นสูง การฟังบรรยาย การแสดงความคิดเห็นกับเรื่องราว
+ต่าง ๆ การพูดเพื่อโน้มน้าว การรายงานสถานการณ์ การวิเคราะห์ข้อมูลข่าวสาร การเขียนเรียงความ
+(โดยรวมเนื้อหาระดับ 4 ถึงระดับ 8)
+Listening, speaking, reading and writing skill focusing on academic uses, expressing
+opinions on giving themes, inducing speaking, reporting situations, analyzing information, and
+essay writing (Level 4 to 8)
+**CP 002 001 การเตรียมความพร้อมก่อนปฏิบัติงานสหกิจศึกษาส าหรับนักศึกษาวิทยาลัยการ
+คอมพิวเตอร์
+1(0-2-2)
+Orientation to Co-Operative Education for Computing Students
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+ฝึกอบรมเพื่อเตรียมความพร้อมก่อนไปปฏิบัติงานสหกิจศึกษาในหัวข้อต่างๆ ได้แก่ การแนะน าสหกิจ
+ศึกษาการเขียนจดหมาย/จดหมายอิเล็กทรอนิกส์ (E-mail) ส าหรับสมัครงาน การเขียนประวัติส่วนตัว
+(Resume) และการเลือกสถานประกอบการบุคลิกภาพที่ดี พฤติกรรมที่ดีในการท างานและมารยาทในสังคม
+การสื่อสารอย่างสร้างสรรค์ เทคนิคการท างานร่วมกับผู้อื่นอย่างมีประสิทธิภาพ ทักษะทางสังคมและการอยู่
+รอดเทคนิคการเขียนรายงานและการน าเสนอ ทักษะทางวิชาการและวิชาชีพ เฉพาะสาขาวิชา
+Training in preparation for co-operative education provides skill sets in various topics,
+such as introduction to co-operative education, writing job application via letter/email,
+resume writing, choosing the right industry and company, good personalities, good behavior
+in working place and social etiquette, creative communication, techniques for efficient
+interpersonal skills, social survival skills, techniques for report writing and presentations,
+academic and professional skill in particular discipline
+
+**SC 101 009 ชีววิทยาส าหรับวิทยาศาสตร์กายภาพ
+3(3-0-6)
+Biology For Physical Science
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+ความรู้พื้นฐานทางชีววิทยาที่เกี่ยวข้องกับชีวิตประจ าวันของมนุษย์ ล าดับโครงสร้างของสิ่งมีชีวิตจาก
+เซลล์ไปถึงร่างกาย หลักการทางเคมีของสิ่งมีชีวิต การสืบพันธุ์และการเจริญของสิ่งมีชีวิต สรีรวิทยาเบื้องต้น
+ของพืชและสัตว์ พันธุศาสตร์และชีววิทยาระดับโมเลกุล นิเวศวิทยาและการอนุรักษ์ทรัพยากร
+Basic knowledge in biology concerning human everyday life, structural order from cells
+to organisms, reproduction and development of organisms, principles of chemistry of life,
+basic physiology of plants and animals, genetics and molecular biology, ecology and natural
+resources conservation
+
+** SC 101 010
+
+ปฏิบัติการชีววิทยาส าหรับวิทยาศาสตร์กายภาพ
+1(0-2-1)
+Biology For Physical Science Laboratory
+
+เงื่อนไขของรายวิชา : SC 101 009 หรือ เรียนพร้อมกันกับรายวิชา SC 101 009#
+
+การทดลองปฏิบัติการให้สอดคล้องกับวิชา SC 101009 ชีววิทยาส าหรับวิทยาศาสตร์กายภาพ
+Laboratory experiments to accompany SC 101009 Biology for Physical Science
+**SC 201 006 ปฏิบัติการเคมีทั่วไป
+1(0-3-2)
+General Chemistry Laboratory
+
+เงื่อนไขของรายวิชา : รายวิชาที่ต้องเรียนพร้อมกัน SC 201 005 หรือ SC 202 007
+หรือ SC 201 008#
+
+ปฏิบัติการเกี่ยวกับเนื้อหาในวิชา **SC 201 005 (เคมีทั่วไป) หรือ **SC 202 007 (เคมีพื้นฐาน)
+หรือ **SC 201 008 (เคมีหลักมูล)
+The laboratory experiments related to contents in **SC 201 005 (General Chemistry) ,
+**SC 202 007 (Basic Chemistry) and **SC 201 008 (Fundamental Chemistry)
+
+**SC 201 008
+
+เคมีหลักมูล
+3(3-0-6)
+Fundamental Chemistry
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+ปริมาณสัมพันธ์ โครงสร้างอะตอม พันธะเคมี แก๊ส ของแข็ง ของเหลวและสารละลาย อุณหพล
+ศาสตร์เคมี ระบบการถ่ายโอนอิเล็กตรอน จลนพลศาสตร์เคมี สมดุลเคมีและสมดุลไอออน ตารางธาตุ และ
+ธาตุเรพรีเซนเททีฟ โลหะแทรนซิชัน สารเชิงซ้อนในสิ่งมีชีวิต เคมีนิวเคลียร์ มลพิษและสารมลพิษ
+Stoichiometry, atomic structure, chemical bonding, gas, solid, liquid and solution,
+chemical thermodynamics, electron transferring system, chemical kinetics, chemical and ionic
+equilibria, periodic table and representative elements, transition metals, nuclear chemistry,
+pollution and pollutant
+
+**CP 350 001
+
+การเขียนโปรแกรมคอมพิวเตอร์ 1
+3(2-2-5)
+Computer Programming I
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+การเขียนโปรแกรมคอมพิวเตอร์ขั้นแนะน า การแก้ปัญหา ผังงาน ซูโดโค้ด การแก้ปัญหา การคิดเชิง
+ตรรก ชนิดข้อมูล ตัวแปร โครงสร้างควบคุม อร์เรย์ ฟังก์ชัน การน าเข้า/การส่งออก ไฟล์
+Introduction to computer programming: flowchart, pseudocode, problem solving,
+logical thinking, data types, variables, control structure, array, function, input/output, file
+
+**CP 350 002
+
+โครงสร้างข้อมูล
+3(3-0-6)
+Data Structure
+
+เงื่อนไขของรายวิชา : CP 350 001#
+หลักมูลของขั้นตอนวิธี โครงสร้างข้อมูลแบบเชิงเส้น แถวล าดับ เรียงทับซ้อน แถวคอย แถวคอยสอง
+ด้าน รายการโยง รายการวง รายการโยงคู่ รายการหลายตัวโยง โครงสร้างข้อมูลไม่เชิงเส้น โครงสร้างรูปต้นไม้
+และกราฟ เทคนิคการเรียงล าดับและการค้นหาข้อมูล
+Fundamentals of algorithms, linear data structures: arrays, stacks, queues, deques,
+linked lists, circular lists, doubly linked lists, multilinked lists, non-linear data structures, tree
+structure and graphs, sorting and searching techniques
+**CP 372 032
+
+ระบบจัดการฐานข้อมูลและการออกแบบฐานข้อมูล
+3(3-0-6)
+
+Database Management System and Database Design
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+แนวคิดระบบจัดการฐานข้อมูลขั้นแนะน า รูปแบบข้อมูลและภาษา ทฤษฎีฐานข้อมูลเชิงสัมพันธ์ การ
+ออกแบบฐานข้อมูล การจัดระเบียบแฟ้ม การประมวลผลข้อค าถาม การควบคุมภาวะพร้อมกัน การ
+ย้อนกลับและการกู้คืน บูรณภาพและความต้องกัน ทัศนะการท าให้เกิดผล ความมั่นคงของฐานข้อมูล
+เทคนิคการท าให้เกิดผลส าหรับระบบฐานข้อมูล
+Introduction to Database Management System (DBMS) concepts, data models and
+languages, relational database theory, database design, file organization, query processing,
+concurrency control, rollback and recovery, integrity and consistency, and view
+implementation, database security, implementation techniques for database systems
+
+**CP 372 033
+
+ปฏิบัติการระบบฐานข้อมูลและการออกแบบ
+1(0-2-2)
+Database Management System and Database Design
+Laboratory
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+การทดลองปฏิบัติการให้สอดคล้องกับวิชา **CP 372 032 ระบบฐานข้อมูลและการออกแบบ
+Laboratory experiments to accompany **CP 372 032 Database Systems and Design
+
+**CP 371 001
+
+หลักมูลภูมิสารสนเทศศาสตร์
+3(3-0-6)
+Fundamentals of Geo-informatics
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+วิวัฒนาการด้านเทคโนโลยีภูมิสารสนเทศ ค าจ ากัดความ องค์ประกอบ ระบบการท างาน และ
+ศักยภาพในการประยุกต์ใช้เทคโนโลยี 3S ซึ่งประกอบด้วย การรับรู้จากระยะไกล ระบบสารสนเทศภูมิศาสตร์
+และระบบน าทางด้วยดาวเทียม
+Development of Geo- Informatics technology, definitions, components of 3S
+technology systems including Remote Sensing (RS), Geographic Information System (GIS) and
+Global Navigation Satellite System (GNSS).
+
+**CP 371 031
+
+เทคโนโลยีสารสนเทศขั้นพื้นฐาน
+3(2-2-5)
+Basics of Information Technology
+เงื่อนไขของรายวิชา: ไม่มี
+
+ระบบคอมพิวเตอร์เบื้องต้นรวมไปถึงการท างานของคอมพิวเตอร์ฮาร์ดแวร์และซอฟต์แวร์แต่ละ
+ประเภท การจัดเก็บ วิเคราะห์ และการประมวลผลข้อมูล แนวคิดของข้อมูลเชิงพื้นที่ หลักการของเลขฐาน
+และการแทนค่าภาษาเครื่อง แนวคิดของเครือข่ายคอมพิวเตอร์ วิธีการเขียนโปรแกรมคอมพิวเตอร์เบื้องต้น
+และการเขียนผังงาน หลักการของฐานข้อมูล ระบบปฏิบัติการและฝึกหัดโปรแกรมประยุกต์ที่จ าเป็นและ
+อรรถประโยชน์อื่นๆ
+Basic of computer system, including hardware and different types software , data
+collection, data analysis and data processing, concepts of spatial data, concepts of binary
+system and manchine language, concepts of computer network, overview of computer
+programming and flowchart, overview of database, operating systems, labs and exercises on
+essential application software and utility programs
+
+**CP 371 041
+
+ภูมิศาสตร์กายภาพ
+3(3-0-6)
+
+Physical Geography
+
+เงื่อนไขของรายวิชา: ไม่มี
+
+แนวคิดเชิงพื้นที่ ภูมิศาสตร์ รูปทรงของโลก เส้นโครงแผนที่ ต าแหน่งและทิศทางบนโลก บรรยากาศ
+และอุทกภาค ลมและการไหลเวียน ภูมิอากาศ ดิน และพืชพรรณ ภูมิสัณฐานของพื้นโลก เทคโนโลยีภูมิ
+สารสนเทศศาสตร์ในภูมิศาสตร์กายภาพ
+Spatial thinking, geography, form of the earth, map projection, location and direction
+of the globe, atmosphere and hydrosphere, wind and circulation, climate, soil, vegetation,
+land form of the earth’s crust, geo-informatics technology in physical geography
+
+**CP 372 002
+
+ระบบสารสนเทศภูมิศาสตร์ขั้นแนะน า
+3(2-3-6)
+
+Introduction to Geographic Information System
+
+เงื่อนไขของรายวิชา: ไม่มี
+
+นิยามและองค์ประกอบของระบบสารสนเทศภูมิศาสตร์ พื้นฐานทางแผนที่ เส้นโครงแผนที่และระบบ
+พิกัดอ้างอิง ข้อมูลเวกเตอร์และแรสเตอร์ การปรับแก้ความคลาดเคลื่อนทางเรขาคณิต การน าเข้าและจัดการ
+ข้อมูลเชิงพื้นที่และข้อมูลคุณลักษณะ การแสดงข้อมูล การจัดท าแผนที่ การวิเคราะห์ข้อมูลเวกเตอร์และแร
+สเตอร์ การประมาณค่าเชิงพื้นที่และแบบจ าลองความสูงเชิงเลข แบบจ าลองและการประกอบแบบจ าลองทาง
+ระบบสารสนเทศทางภูมิศาสตร์ การวิเคราะห์ข้อมูลเชิงพื้นที่และการตรวจสอบความถูกต้อง การใช้งาน
+ซอฟต์แวร์ด้านระบบสารสนเทศภูมิศาสตร์ พจนานุกรมข้อมูลและข้อมูลอภิพันธุ์
+Definition and components of geographic information system ( GIS) , map basics,
+projection and coordinate systems, vector and raster data, geometric correction, spatial and
+attribute data input and management, data display, cartography, vector and raster data
+analysis, spatial interpolation and digital elevation model, GIS model and modeling, spatial
+analysis and accuracy assessment, usage of GIS software, metadata and data dictionary
+**CP 372 011
+
+หลักมูลการรับรู้จากระยะไกล
+3(2-3-6)
+
+Fundamentals of Remote Sensing
+
+เงื่อนไขของรายวิชา: ไม่มี
+
+นิยามและแนวคิดของการรับรู้จากระยะไกล แหล่งพลังงาน การสะท้อนคลื่นแม่เหล็กไฟฟ้า การ
+สะท้อนของวัตถุ วิวัฒนาการของการรับรู้จากระยะไกล ดาวเทียมส ารวจทรัพยากรธรรมชาติ เครื่องรับรู้หลาย
+ช่วงคลื่น หลักการและองค์ประกอบการแปลตีความภาพด้วยสายตาและกระบวนการประมวลผลภาพเชิงเลข
+การประยุกต์การรับรู้จากระยะไกลในการจัดการทรัพยากรธรรมชาติและสิ่งแวดล้อม สังคมและเศรษฐกิจ
+Definition and concept of remote sensing, sources of energy, electromagnetic
+reflectance, spectral reflectance of object, remote sensing evolution, earth observation
+satellites, multispectral sensors,element and concept of viual interpretation and digital image
+processing, remote sensing application to natural resources and environmental management,
+socail and economic.
+
+**CP 372 012
+
+การประมวลผลเชิงเลขของข้อมูลจากดาวเทียม
+3(2-3-6)
+
+Digital Processing of Satellite Data
+
+เงื่อนไขของรายวิชา: CP 372 011 หรือ SC 332 011#
+
+ข้อมูลเชิงเลขภาพถ่ายดาวเทียม การแสดงภาพ การแก้ไขเชิงคลื่นและเชิงต าแหน่ง การเน้นข้อมูลภาพ
+การจ าแนกภาพ การตรวจสอบความถูกต้อง การวิเคราะห์ภาพเชิงวัตถุ การประมวลผลภาพเรดาห์ช่องรับแสง
+สังเคราะห์เบื้องต้น การประมวลผลภาพถ่ายดาวเทียมบนระบบคลาวด์ การประยุกต์ข้อมูลภาพถ่ายจาก
+ดาวเทียมด้านการใช้ที่ดิน ป่าไม้ แหล่งน ้า และอื่นๆ
+Digital data of satellite image, image display, radiometric and geometric correction,
+image enhancement, image classification, accuracy assessment, object-based image analysis,
+basic of synthetic aperture radar image processing, image processing on the cloud, application
+for land use, forest, water resource and etc.
+
+**CP 372 021
+
+ระบบดาวเทียมน าทางสากลขั้นแนะน า
+3(2-2-5)
+Introduction to Global Navigation Satellite System
+
+เงื่อนไขของรายวิชา: ไม่มี
+
+วิชานี้แนะน าหลักการพื้นฐานของระบบดาวเทียมน าทางสากล (GNSS) การระบุพิกัดด้วยดาวเทียม
+โครงสร้างของสัญญาณของระบบดาวเทียมน าทางสากล เครื่องรับสัญญาณของระบบดาวเทียมน าทางสากล
+การประมวลผลสัญญาณของระบบดาวเทียมน าทางสากล การรังวัดด้วยดาวเทียมแบบจลน์ และโครงข่ายการ
+รังวัดด้วยดาวเทียมแบบจลน์ รวมถึงการน าระบบดาวเทียมน าทางสากลไปประยุกต์ใช้งานในด้านต่าง ๆ
+This course is aimed to introduce the basic principles of the Global Navigation Satellite
+Systems (GNSS), satellite positioning, GNSS signal structures, GNSS receivers, GNSS data
+processing, Real Time Kinematic (RTK) GNSS and RTK GNSS Network. This course is also
+included the demonstration the various aspects of GNSS applications.
+
+**CP 373 003
+
+หลักการท าแผนที่
+3(2-3-6)
+
+Principles of Cartography
+
+เงื่อนไขของรายวิชา: ไม่มี
+
+ประวัติและหลักมูลของการท าแผนที่ ชนิดของแผนที่ การท าแผนที่โดยทั่วไป การออกแบบแผนที่ เส้น
+โครงแผนที่ การจัดท าแผนที่ แผนที่เฉพาะด้าน กระบวนการทางภูมิศาสตร์ การสร้างแผนที่ 3 มิติ การ
+ออกแบบแผนที่แสดงผ่านเว็บไซด์
+History and fundamentals of cartography, map types, general cartography, map design,
+map projection, map construction, thematic map, geographical process, 3D map, map design
+for website mapping.
+
+**CP 373 004 ภูมิสารสนเทศศาสตร์ประยุกต์
+3(2-3-6)
+
+Applied Geo-informatics
+
+เงื่อนไขของรายวิชา: CP 372 002 และ CP 372 011 หรือ SC 332 002 และ SC
+332 011#
+
+การประยุกต์ภูมิสารสนเทศในด้านการส ารวจทรัพยากรธรรมชาติและสิ่งแวดล้อม กระบวนการของ
+โลก การพัฒนาแบบยั่งยืนและการจัดการทรัพยากรแบบบูรณาการ การเฝ้าติดตามภัยพิบัติทางธรรมชาติและ
+การจัดการ การวิเคราะห์ทางสิ่งแวดล้อม การประยุกต์ภูมิสารสนเทศในหัวข้อต่าง ๆ
+Geo-information applications in natural resources and environment observation, earth
+process, sustainable development and integrated resources management, natural disaster
+monitoring and management, environmental analysis, the applications of geo-informatics in
+several topics
+
+**CP 373 032
+
+การเขียนโปรแกรมในระบบสารสนเทศภูมิศาสตร์
+3(2-3-6)
+
+Programming in Geographic Information System
+
+เงื่อนไขของรายวิชา: CP 350 001 และ CP 372 002 หรือ SC 310 001 และ SC
+332 002#
+การเขียนโปรแกรมไพทอนขั้นแนะน ากับงานด้านภูมิสารสนเทศศาสตร์ในทางระบบสารสนเทศทาง
+ภูมิศาสตร์ การเขียนโปรแกรมไพทอนขั้นพื้นฐาน ความหมายของสคริปต์ แมโคร และ VBA ความแตกต่าง
+ระหว่าง VBA และ VB การสร้าง การใช้งานและการลบแมโคร พื้นฐานของ VBA การสร้าง Dialog box การ
+ใช้งาน VB Editor รูปแบบโครงสร้างค าสั่งของ VBA ตัวแปรไพทอน ตัวแปร ตัวแปรอเรย์ การควบคุมการไหล
+ของข้อมูล การท างานกับแฟ้มข้อมูลเชิงวัตถุ การค้นหาวัตถุ วิธีการและคุณสมบัติที่ต้องการ การใช้งานโมดูล
+มาตรฐานและโมดูลทางภูมิสารสนเทศศาสตร์ การเขียนโปรแกรมท างานกับฟังก์ชั่นต่างๆ ในโมดูล ArcPy การ
+ท างานแบบมีเงื่อนไขและการท าซ ้า การแก้ปัญหาความผิดพลาด พื้นฐาน ArcObject แนะน าการพัฒนา
+ArcGIS Desktop สถาปัตยกรรมซอฟต์แวร์ ArcGIS การปรับแต่งการท างานด้วยการใช้ตัวประสาน การใช้ผัง
+แบบจ าลองเชิงวัตถุ การสร้างเครื่องมือ การเขียนโปรแกรมด้วย ArcObject การใช้งานชุดค าสั่ง การจัดการ
+กับชุดข้อมูลและชั้นข้อมูล การจัดการข้อมูลคุณลักษณะ การแปลง การแสดงข้อมูล และการด าเนินการกับ
+ข้อมูลเวกเตอร์และแรสเตอร์
+Introduction to Python programming in Geo-informaticsIS, Python basic programming
+definition of script macro and VBA, VBA vs VB, creating running and deleting a macro, VBA
+basics, creating dialog box, getting started with VB editor, VBA syntax, python variables,
+program variables, array variable, flow control, working with file object, finding the objects,
+methods and properties, using standard modules and Geo-informatics modules, programming
+with functions in ArcPy module, making decisions and loops statement, debugging code,
+ArcObject basics, introducing ArcGIS desktop development, ArcGIS software architecture,
+customization of the user interface, using object model diagrams, making tools, programming
+with ArcObject, executing commands, dataset and layer management, attribute data
+management, data conversion, data display, vector and raster data operations
+
+**CP 373 042
+
+การวางแผนการใช้ที่ดินขั้นแนะน า
+3(3-0-6)
+
+Introduction to Land Use Planning
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+ที่ดิน หน่วยที่ดิน การบ่งชี้และการจ าแนกการใช้ที่ดิน การจัดการที่ดิน ธรรมชาติและขอบเขตการวาง
+แผนการใช้ที่ดิน กระบวนการวางแผน ขั้นตอนในการวางแผนการใช้ที่ดิน การเสื่อมโทรมของที่ดินและปัญหา
+การใช้ที่ดิน การประเมินที่ดิน กรณีศึกษาการวางแผนการใช้ที่ดิน
+Land, land unit, land use identification/classification, land management, nature and
+scope of land use planning, planning process, step in land use planning, factors affecting land
+degradation and land use problems, land evaluation, case study of land use planning.
+
+**CP 373 101
+
+การวางผังเมืองและภูมิสารสนเทศศาสตร์
+3(3-0-6)
+City Planning and Geo-informatics
+
+เงื่อนไขของรายวิชา: ไม่มี
+ความหมายและองค์ประกอบทางกายภาพของชุมชนเมือง ลักษณะของผังเมืองรวมและการจ าแนก
+ประเภทของการใช้ประโยชน์ที่ดิน รวมถึงประเด็นเรื่องกฎหมายและข้อบังคับต่างๆ ทางด้านผังเมือง ปัจจัย
+เชิงพื้นที่และปัจจัยเชิงเศรษฐกิจและสังคมที่มีผลต่อการขยายตัวของชุมชนเมือง การวิเคราะห์ปัจจัยที่มีผลต่อ
+การเติบโตของชุมชนเมือง การสร้างแบบจ าลองการเติบโตของชุมชนเมืองด้วยการวิเคราะห์แบบซ้อนทับให้ค่า
+น ้าหนัก
+Definition of urban and its physical components. Characteristics of city comprehensive
+plan and land use types, including codes and regulations regard city planning. Physical and
+socio-economic driving factors influential to urban growth. Analysis of factors influencing
+urban growth. Urban growth modeling using weight overlay analysis.
+
+**CP 373 111
+
+การรับรู้จากระยะไกลด้วยคลื่นไมโครเวฟขั้นแนะน า
+3(3-0-6)
+Introduction to Microwave Remote Sensing
+
+เงื่อนไขของรายวิชา : CP 372 011#
+
+ความหมายของคลื่นไมโครเวฟและเรดาร์ สมการเรดาร์และช่วงคลื่น เรดาร์ช่องเปิดสังเคราะห์ เรดาร์
+ช่องเปิดจริง พารามิเตอร์ของระบบเรดาร์ พารามิเตอร์ของพื้นที่ เรขาคณิตของเรดาร์ อินเทอร์เฟอโรเมตรีของ
+เรดาร์ คุณลักษณะข้อมูลภาพเรดาร์ ประเภทของดาวเทียมเรดาร์ การแปลตีความข้อมูลและการใช้ประโยชน์
+จากดาวเทียมเรดาร์ การประมวลผลภาพเชิงเลข การประยุกต์ใช้ข้อมูลเรดาร์ด้านป่าไม้ ธรณีวิทยา อุทกวิทยา
+การใช้ที่ดินและอื่นๆ
+Definition of microwave and radar, radar equation and wavelength, synthetic aperture
+radar, real aperture radar, system parameters, ground parameters, radar geometry,
+interferometry, digital radar image processing, , radar image interpretation, characteristics of
+radar satellites and its applications in forestry, geology, hydrology, land use and others.
+
+*CP 373 112
+
+การท าแผนที่ด้วยอากาศยานไร้คนขับ
+3(2-3-6)
+Unmanned Aerial Vehicle Mapping
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+การวางแผนและควบคุมการบินอากาศยานไร้คนขับเพื่อการท าแผนที่ การประมวลผลข้อมูลภาพถ่าย
+เพื่อจัดท าแผนที่หรือแบบจ าลอง 3 มิติ จุดควบคุม โฟโตแกรมเมตรี การวิเคราะห์ข้อมูลภาพถ่ายทางอากาศ
+รวมไปถึงการสกัดและจ าแนกวัตถุหรือข้อมูลเชิงพื้นที่อัตโนมัติ การประยุกต์ใช้อากาศยานไร้คนขับในงาน
+ส ารวจประเภทต่าง ๆ ประเด็นเรื่องกฎหมายและข้อบังคับในการใช้อากาศยานไร้คนขับ
+Planning and Piloting Unmanned Aerial Vehicle (UAV) for mapping, aerial image analysis
+for maps and 3D, ground control points, photogrametry, models creation, automated aerial
+image analysis for objects or spatial data classification, applications of UAV for surveys, rules
+and regulations of UAV
+**CP 373 122
+
+การส ารวจรังวัดเบื้องต้น
+3(2-3-6)
+Introduction to Surveying
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+นิยามและแนวคิดของการส ารวจรังวัด ทฤษฎีการวัดและความคลาดเคลื่อน การวัดระยะทางราบ การ
+ท าระดับ การวัดมุม เส้นชั้นความสูง ข้อมูลความสูงเชิงเลข การท าวงรอบ เส้นโครงแผนที่
+Definition and concept of survey, theory of measure and errors, horizontal
+measurement, leveling, angle measurement, contour, digital elevation model, traversing, map
+projection
+
+**CP 373 201
+
+การวิเคราะห์เชิงพื้นที่
+3(2-3-6)
+Geospatial Analysis
+
+เงื่อนไขของรายวิชา : CP 372 002 หรือ SC 332 002#
+
+วิธีการและแบบจ าลองข้อมูลเชิงพื้นที่ขั้นแนะน า สถิติเชิงพื้นที่ แบบจ าลองลักษณะทางภูมิประเทศ
+แบบจ าลองอุทกวิทยา การประมาณค่ารูปแบบกริดและการสร้างเส้นชั้นความสูง วิธีการประมาณค่าแบบสถิต
+เชิงพื้นที่ การวิเคราะห์โครงข่ายและสถานที่ตั้ง การตรวจสอบความถูกต้องเชิงพื้นที่ ข้อมูลขนาดใหญ่เบื้องต้น
+และการประยุกต์ใช้
+Introduction to spatial data models and methods, spatial statistics, terrain model,
+hydrologic model, gridding interpolation and contouring, geostatistical interpolation methods,
+network and location analysis, spatial accuracy assessment, introduction to big data, machine
+learning and applications
+
+**CP 373 231
+
+การประยุกต์ท าแผนที่บนเว็บ
+3(2-3-6)
+
+Web mapping application
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+เทคโนโลยีและแนวโน้มของระบบสารสนเทศภูมิศาสตร์ผ่านอินเตอร์เน็ตและแผนที่บนเว็บ
+ความหมายของการท าแผนที่บนเว็บ โครงสร้างและองค์ประกอบของการท าแผนที่บนเว็บ วิวัฒนาการของ
+เทคโนโลยีการท าแผนที่บนเว็บ พื้นฐานการพัฒนาและการประยุกต์ท าแผนที่บนเว็บ การใช้งานภาษา HTML
+Javascript PHP และ library ในการพัฒนาแผนที่บนเว็บ เช่น Leaflet และ Mapbox การพัฒนาแผนที่บน
+เว็บบนเฟรมเวิร์คที่นิยมในปัจจุบัน เช่น Node.js และ React
+Technology and trends of Internet Geographic Information System and web mapping,
+definition of web mapping, structures and components of web mapping, technology
+evolution of web mapping, basics of web application development using HTML, Javascript,
+PHP and related libraries such as Leaflet and Mapbox, modern web application framework
+such as Node.js and React.
+**CP 373 232
+
+การจัดการฐานข้อมูลเชิงพื้นที่
+3(2-3-6)
+
+Spatial Database Management
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+ฐานข้อมูลเชิงพื้นที่ขั้นแนะน า พื้นฐานของฐานข้อมูลเชิงสัมพันธ์และ NoSQL ส าหรับข้อมูลเชิงพื้นที่
+เงื่อนไขบังคับและความคงสภาพของข้อมูล มาตรฐานและประเภทของข้อมูลเชิงพื้นที่และการวิเคราะห์เชิง
+พื้นที่ แบบจ าลองเชิงตรรกะและภาษาในการสืบค้นข้อมูลเชิงพื้นที่ กระบวนการสร้าง สืบค้น และ แก้ไขข้อมูล
+เชิงพื้นที่ การออกแบบฐานข้อมูลเชิงพื้นที่ การประยุกต์ใช้ฐานข้อมูลเชิงพื้นที่กับแผนที่บนเว็บและโปรแกรม
+ประยุกต์ ข้อมูลภูมิสารสนเทศพื้นฐานของประเทศ
+Introduction of spatial database, basics of relational database and NoSQL database for
+spatial data, data integrity and constraint, standards and types of spatial data and spatial
+analysis, logical models and spatial query languages, spatial data creation, query, and update,
+spatial database design, Applications of spatial database for webmap and application
+software, Fundamental Geographic Data Set
+
+**CP 373 701
+
+ระเบียบวิธีวิจัยในภูมิสารสนเทศศาสตร์
+3(3-0-6)
+Research Methodology in Geo-informatics
+
+เงื่อนไขของรายวิชา: ไม่มี
+
+การศึกษาความหมาย ความส าคัญ วัตถุประสงค์ การตั้งค าถาม และประเภทของงานวิจัย
+กระบวนการวิจัยทางภูมิสารสนเทศศาสตร์ ทบทวนวรรณกรรมและงานวิจัยที่เกี่ยวข้อง การเขียนข้อเสนอ
+โครงการวิจัย สถิติเบื้องต้น การทดลอง การสรุป ผลงานวิจัย การเขียนรายงาน การเขียนบทความวิจัย การ
+น าเสนอ การอ้างอิง และมารยาทและจริยธรรมในการท าวิจัย
+Study in meaning or semantic significant objective questioning and category for
+research in geo-informatics, review article and related work, research proposal writing,
+introduction to statistic, experimental study, research summary, report writing, research
+writing, proposal presentation, reference, and research ethics
+
+*CP 374 702
+
+โครงงานวิจัยในภูมิสารสนเทศศาสตร์ 1
+3(0-9-6)
+Research Project in Geo-Informatics I
+
+เงื่อนไขของรายวิชา: CP 373 701#
+
+การจัดท าวิจัยระยะแรกโดยเทคโนโลยีภูมิสารสนเทศ ซึ่งจะน าไปสู่กระบวนการเรียนรู้ทางระเบียบวิธี
+ทางวิทยาศาสตร์ การทบทวนเอกสาร การรวบรวมข้อมูลเชิงพื้นที่และขั้นตอนการด าเนินงาน รวมทั้งการ
+จัดท ารูปเล่มรายงานและน าเสนอโครงงานวิจัยของนักศึกษา
+Conducting an initiative research in Geo-information technology leading to learning
+process in scientific methodology, review literature, spatial data collection and method
+including reports and presentation on their research projects
+*CP 374 703
+
+โครงงานวิจัยในภูมิสารสนเทศศาสตร์ 2
+3(0-9-6)
+Research Project in Geo-Informatics II
+
+เงื่อนไขของรายวิชา: CP 374 702#
+
+โครงงานวิจัยต่อเนื่องมาจากโครงงานวิจัยในภูมิสารสนเทศศาสตร์ 1 ให้เป็นโครงงานวิจัยที่สมบูรณ์
+นักศึกษาต้องท ารายงาน น าเสนอ เขียนบทความและโปสเตอร์ในหัวข้อวิจัยนั้นๆ
+The research project that continued from Research Project in Geo-Informatics I and
+develop to a complete research. The students must prepare reports, presentation, research
+article and academic poster on their research topics.
+
+*CP 373 784
+
+การฝึกงานทางภูมิสารสนเทศศาสตร์
+3(0-9-5)
+Internship in Geo-Informatics
+
+เงื่อนไขของรายวิชา: เป็นนักศึกษาชั้นปีที่ 3 ขึ้นไปที่ได้รับความเห็นชอบของ
+คณะกรรมการบริหารหลักสูตร
+
+การฝึกงานในองค์กรภาครัฐ เอกชน องค์กรระหว่างประเทศ ที่เกี่ยวข้องกับงานทางด้านภูมิสารสนเทศ
+ศาสตร์
+Internship learning experience and working in the private or public organizations, or
+private company, or international organization in the areas of geo-informatics
+
+**CP 374 785
+
+สหกิจศึกษาทางภูมิสารสนเทศศาสตร์
+6(0-18-9)
+
+Co-Operative Education in Geo-Infromatics
+
+เงื่อนไขของรายวิชา: ลงทะเบียนครบทั้งหลักสูตร และมีผลการเรียนเป็น S ใน
+รายวิชา **CP002 001 และ CP 373 784#
+
+นักศึกษาต้องปฏิบัติงานจริงด้วยความรับผิดชอบในงานสาขาวิชาภูมิสารสนเทศศาสตร์ โดยต้อง
+ปฏิบัติงานเต็มเวลาตามแผนการท างานที่จัดเจนามที่ได้รับมอบหมายจากพนักงานที่ปรึกษาอย่างน้อย 16
+สัปดาห์ โดยที่ลักษณะงานต้องแตกต่างไปจากการไปทัศนศึกษาหรือฝึกงานทั่วไป นักศึกษาต้องเขียนรายงาน
+เทคนิคและถูกประเมินโดยคณะกรรมการประเมินผล
+Each student is required to work responsibly in a workplace in the area of geo-
+informatics, fulltime work plan must be established and carried out under the supervision of
+his/her advisors for at least 16 weeks, nature of the work must be different from that of
+normal practical training or study terms, the student is required to write a technical report
+and assessed by the subject committee
+
+*SC 401 006 คณิตศาสตร์ทั่วไป
+3(3-0-6)
+General Mathematics
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+เวกเตอร์และเรขาคณิตวิเคราะห์ในปริภูมิ 3 มิติ เมทริกซ์ ระบบสมการเชิงเส้น ลิมิตและความต่อเนื่อง
+อนุพันธ์และการประยุกต์ ปริพันธ์และการประยุกต์
+Vectors and analytical geometry in 3 dimensional spaces, matrices, systems of linear
+equations, limits and continuity, derivatives and applications, integrals and applications
+
+**SC 402 101
+
+พีชคณิตเชิงเส้น 1
+3(3-0-6)
+
+Linear Algebra I
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+เมทริกซ์และดีเทอร์มิแนนท์ ระบบสมการเชิงเส้นและการด าเนินการขั้นมูลฐาน ปริภูมิเวกเตอร์ การ
+แปลงเชิงเส้น ค่าเฉพาะและเวกเตอร์เฉพาะและการประยุกต์
+Matrices and determinants, system of linear equations and elementary operations,
+vector spaces, linear transformations, eigenvalues and eigenvectors and applications
+
+**SC 501 000
+
+ฟิสิกส์เบื้องต้น
+3(3-0-6)
+Elementary Physics
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+ทฤษฎีและการประยุกต์ของกลศาสตร์ กลศาสตร์ของไหล ความร้อนและอุณหพลศาสตร์
+กระแสไฟฟ้า-อิเล็กทรอนิกส์ เสียง ทัศนศาสตร์ ฟิสิกส์อะตอม กัมมันตภาพรังสี
+Theories and applications of mechanics, fluid mechanics, heat and thermodynamics,
+electric current electronics, acoustics, optics, physics, atomic radio activity
+
+**SC 501 003
+
+ปฏิบัติการฟิสิกส์ทั่วไป 1
+1(0-3-2)
+General Physics Laboratory I
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+การวัดและวิเคราะห์ข้อมูล การรวมแรงย่อย โมดูลัสแบบของยัง ลูกตุ้มนาฬิกาอย่างง่าย เครื่องชั่ง
+ความถ่วงจ าเพาะ การวัดความหนืดของ ของเหลวโดยใช้กฎของสโตกส์ พลศาสตร์การหมุน สัมประสิทธิ์ ของ
+การขยายตัวตามเส้น การสั่นพ้องในท่ออากาศ การทดลองของเมลด์
+Measurement and data analysis, component of force, Young’ s modulus, simple
+pendulum, Westphal specific gravity balance, viscosity measurement using Stoke’ s law,
+rotational dynamics, coefficient of linear expansion,resonance in air columns and Meld’s
+experiment
+
+*SC 602 007
+
+สถิติส าหรับวิทยาศาสตร์กายภาพ
+3(3-0-6)
+Statistics for Physical Science
+
+เงื่อนไขของรายวิชา : ไม่มี
+ความหมายและระเบียบวิธีสถิติความฉลาดรู้ทางข้อมูล การประยุกต์ของสถิติในการวิจัยทาง
+วิทยาศาสตร์กายภาพ การวัดแนวโน้มเข้าสู่ส่วนกลาง การวัดการกระจาย การแจกแจงปรกติ การแจกแจงค่า
+ตัวอย่าง การประมาณค่า การก าหนดขนาด ตัวอย่าง การทดสอบสมมติฐาน การทดสอบแบบไม่ใช้
+พารามิเตอร์ การวิเคราะห์ความแปรปรวน การเปรียบเทียบพหุคูณ การวิเคราะห์ข้อมูลเชิงจ าแนก การ
+วิเคราะห์สหสัมพันธ์และการถดถอยเชิงเส้น การวิเคราะห์ข้อมูลโดยใช้โปรแกรมส าเร็จรูปทาง สถิติและ
+ตัวอย่างข้อมูลทางวิทยาศาสตร์กายภาพ
+Meaning and statistics method, data literacy, application of statistics in physical science
+research, measures of central tendency, measures of dispersion, normal distribution, sampling
+distributions, estimation, sample size determination, hypothesis testing, nonparametric
+testing, analysis of variance, multiple comparisons, categorical data analysis, correlations and
+linear regression analysis, data analysis by using statistical package program and examples of
+physical data
+**SC 902 201
+
+วิทยาศาสตร์สิ่งแวดล้อม
+3(3-0-6)
+Environmental Science
+
+เงื่อนไขของรายวิชา : ไม่มี
+
+ภาพรวมของวิทยาศาสตร์สิ่งแวดล้อม หลักการทางนิเวศวิทยาส าหรับนักวิทยาศาสตร์สิ่งแวดล้อม
+สาเหตุของปัญหาสิ่งแวดล้อม พลังงาน ปัญหาสิ่งแวดล้อม ปัญหาการเสื่อมของทรัพยากรธรรมชาติ ปัญหา
+มลพิษสิ่งแวดล้อม ได้แก่ มลพิษทางน ้า มลพิษทางอากาศมลพิษจากขยะและขยะอันตราย มลพิษอื่นๆ การ
+ป้องกันและเทคโนโลยีการจัดการมลพิษเบื้องต้น ความมั่นคงทางอาหาร การอนุรักษ์ทรัพยากรธรรมชาติ การ
+พัฒนาที่ยั่งยืน
+Overview of environmental science, ecological principles for environmental scientists,
+causes of environmental problems, energy, environmental problems, natural resources
+depletion, environmental pollution including water pollution, air pollution, solid waste and
+hazardous waste pollution, other pollutions, pollution prevention and basic environment
+pollution management technology, food security, natural resource conservation, sustainable
+development
+3.2 ชื่อ เลขประจ าตัวบัตรประชาชน ต าแหน่งและคุณวุฒิของอาจารย์
+3.2.1 อาจารย์ประจ าหลักสูตร
+ที่
+ชื่อ นามสกุล
+เลขประจ าตัวบัตร
+ประชาชน
+ต าแหน่งทาง
+วิชาการ
+คุณวุฒิ
+นายชัยพล กีรติกสิกร
+3-4099-005XX-XX-X
+รองศาสตราจารย์
+วศ.ด. (วิศวกรรมส ารวจ)
+วท.ม. (การรับรู้จากระยะไกลและ
+ระบบสารสนเทศภูมิศาสตร์)
+สถ.บ. (สถาปัตยกรรม)
+นายณกร วัฒนกิจ
+3-4099-011XX-XX-X
+ผู้ช่วยศาสตราจารย์ วศ.ด. (วิศวกรรมส ารวจ)
+วท.ม. (การรับรู้จากระยะไกลและ
+ระบบสารสนเทศภูมิศาสตร์)
+วท.บ. (ภูมิศาสตร์)
+นายพิพัธน์ เรืองแสง
+4-4899-000XX-XX-X
+ผู้ช่วยศาสตราจารย์ Ph.D. (Agricultural Engineering)
+Cert. (Geographic Information
+Systems)
+M.Sc. (Computer Engineering)
+M.Sc. (Agricultural Engineering)
+อส.บ. (เทคโนโลยีไฟฟ้าอุตสาหกรรม)
+นางสาวสุมณฑา เกษมวิลาศ
+3-4099-000XX-XX-X
+ผู้ช่วยศาสตราจารย์ Ph.D. (Information Systems and
+Technology)
+M.Sc. (Information Systems and
+Technology)
+วท.ม. (วิทยาการคอมพิวเตอร์)
+วท.บ. (วิทยาการคอมพิวเตอร์)
+นางสาวอุราวรรณ จันทร์เกษ
+3-3302-001XX-XX-X
+ผู้ช่วยศาสตราจารย์ ปร.ด. (การรับรู้จากระยะไกลและ
+ระบบสารสนเทศภูมิศาสตร์)
+วท.ม. (การรับรู้จากระยะไกลและ
+ระบบสารสนเทศภูมิศาสตร์)
+วท.บ. (วิทยาศาสตร์สิ่งแวดล้อม)
+นายศักดิ์พจน์ ทองเลี่ยมนาค
+3-3699-000XX-XX-X
+อาจารย์
+Ph.D. (Remote Sensing and
+Geographic Information
+Systems)
+วท.ม. (วิทยาการคอมพิวเตอร์)
+วศ.บ. (วิศวกรรมคอมพิวเตอร์)
+นายธนพล ตั้งชูพงศ์
+3-4099-010XX-XX-X
+อาจารย์
+M.Sc. (Computer Science)
+วศ.บ. (วิศวกรรมคอมพิวเตอร์)
+ที่
+ชื่อ นามสกุล
+เลขประจ าตัวบัตร
+ประชาชน
+ต าแหน่งทาง
+วิชาการ
+คุณวุฒิ
+นายศรัณย์ อภิชนตระกูล
+3-1017-011XX-XX-X
+อาจารย์
+MGIS (Geographic Information
+Science)
+B.S. (Computer Science)
+หมายเหตุ 1. รายละเอียดเกี่ยวกับประวัติ ผลงานทางวิชาการ และภาระงานสอน ให้ดูในภาคผนวก ก
+3.2.2 อาจารย์ประจ าหรืออาจารย์ผู้สอน
+ที่
+ชื่อ นามสกุล
+เลขประจ าตัวบัตร
+ประชาชน
+ต าแหน่งทาง
+วิชาการ
+คุณวุฒิ
+นายศาสตรา วงศ์ธนวสุ
+3-4005-006XX-XX-X
+ศาสตราจารย์
+D.Tech.Sc. (Computer Science)
+M.S. (Computer Science)
+พบ.ม. (สถิติประยุกต์)
+วท.บ. (คณิตศาสตร์)
+นางงามนิจ อาจอินทร์
+3-1005-040XX-XX-X
+รองศาสตราจารย์
+วท.ด. (วิทยาการคอมพิวเตอร์)
+พบ.ม. (สถิติประยุกต์)
+วท.บ. (สถิติ)
+นายจักรชัย โสอินทร์
+3-1199-002XX-XX-X
+รองศาสตราจารย์
+Ph.D. (Computer Engineering)
+M.Sc. (Computer Engineering)
+วศ.ม. (วิศวกรรมคอมพิวเตอร์)
+วศ.บ. (วิศวกรรมคอมพิวเตอร์)
+นายชัยพล กีรติกสิกร
+3-4099-005XX-XX-X
+รองศาสตราจารย์
+วศ.ด. (วิศวกรรมส ารวจ)
+วท.ม. (การรับรู้จากระยะไกลและ
+ระบบสารสนเทศภูมิศาสตร์)
+สถ.บ. (สถาปัตยกรรม)
+นายปัญญาพล หอระตะ
+3-4099-006XX-XX-X
+รองศาสตราจารย์
+ปร.ด. (วิทยาการคอมพิวเตอร์)
+วท.ม. (วิทยาศาสตร์คอมพิวเตอร์)
+วท.บ. (คณิตศาสตร์)
+นางสิรภัทร เชี่ยวชาญวัฒนา
+3-4099-006XX-XX-X
+รองศาสตราจารย์
+วท.ด. (วิทยาการคอมพิวเตอร์)
+พบ.ม. สถิติประยุกต์ (สาขาวิทยาการ
+คอมพิวเตอร์)
+วท.บ. (สถิติ)
+นายค ารณ สุนัติ
+3-2301-004XX-XX-X
+ผู้ช่วยศาสตราจารย์ วท.ด. (วิทยาการคอมพิวเตอร์)
+วท.ม. (วิทยาศาสตร์คอมพิวเตอร์)
+วท.บ. (เคมีเทคนิค/เคมีวิศวกรรม)
+ที่
+ชื่อ นามสกุล
+เลขประจ าตัวบัตร
+ประชาชน
+ต าแหน่งทาง
+วิชาการ
+คุณวุฒิ
+นางสาวชิตสุธา สุ่มเล็ก
+3-4099-011XX-XX-X
+
+ผู้ช่วยศาสตราจารย์ Ph.D. (Electronic Systems
+Engineering)
+MA.Sc. (Electronic Systems
+Engineering)
+วศ.บ. (วิศวกรรมคอมพิวเตอร์)
+นายณกร วัฒนกิจ
+3-4099-011XX-XX-X
+ผู้ช่วยศาสตราจารย์ วศ.ด. (วิศวกรรมส ารวจ)
+วท.ม. (การรับรู้จากระยะไกลและ
+ระบบสารสนเทศภูมิศาสตร์)
+วท.บ. (ภูมิศาสตร์)
+10 นายบุญทรัพย์ ไวค า
+3-4019-000XX-XX-X
+ผู้ช่วยศาสตราจารย์ M.S. (Computer Science)
+วท.บ. (วิทยาการคอมพิวเตอร์)
+11 นางสาวปวีณา วันชัย
+3-4001-013XX-XX-X
+ผู้ช่วยศาสตราจารย์ Ph.D. (Business Information
+Systems)
+วท.ม. (สถิติประยุกต์และเทคโนโลยี
+สารสนเทศ)
+วท.บ. (วิทยาการคอมพิวเตอร์)
+12 นายพิพัธน์ เรืองแสง
+4-4899-000XX-XX-X
+ผู้ช่วยศาสตราจารย์ Ph.D. (Agricultural Engineering)
+Cert. (Geographic Information
+Systems)
+M.Sc. (Computer Engineering)
+M.Sc. (Agricultural Engineering)
+อส.บ. (เทคโนโลยีไฟฟ้าอุตสาหกรรม)
+13 นางสาวพุธษดี ศิริแสงตระกูล
+3-4099-006XX-XX-X
+ผู้ช่วยศาสตราจารย์ Ph.D. (Interdisciplinary
+Intelligent Systems Engineering)
+วท.ม. (วิทยาการคอมพิวเตอร์)
+วท.บ. (ฟิสิกส์)
+14 นางสาวมัลลิกา วัฒนะ
+3-3110-001XX-XX-X
+ผู้ช่วยศาสตราจารย์ วท.ด. (วิทยาการคอมพิวเตอร์)
+วท.ม. (วิทยาการคอมพิวเตอร์)
+วท.บ. (วิทยาการคอมพิวเตอร์)
+15 นางวรารัตน์ สงฆ์แป้น
+3-4018-000XX-XX-X
+ผู้ช่วยศาสตราจารย์ วศ.ด. (วิศวกรรมคอมพิวเตอร์)
+วศ.ม. (วิศวกรรมคอมพิวเตอร์)
+วท.บ. (วิทยาการคอมพิวเตอร์)
+16 นายสันติ ทินตะนัย
+3-4099-006XX-XX-X
+ผู้ช่วยศาสตราจารย์ พบ.ม. สถิติประยุกต์ (คอมพิวเตอร์)
+วท.บ. (ฟิสิกส์)
+ที่
+ชื่อ นามสกุล
+เลขประจ าตัวบัตร
+ประชาชน
+ต าแหน่งทาง
+วิชาการ
+คุณวุฒิ
+17 นางสาวสุมณฑา เกษมวิลาศ
+3-4099-000XX-XX-X
+ผู้ช่วยศาสตราจารย์ Ph.D. (Information Systems and
+Technology)
+M.Sc. (Information Systems and
+Technology)
+วท.ม. (วิทยาการคอมพิวเตอร์)
+วท.บ. (วิทยาการคอมพิวเตอร์)
+18 นางสาวสิลดา อินทรโสธรฉันท์
+3-4199-001XX-XX-X
+ผู้ช่วยศาสตราจารย์ วศ.ด. (วิศวกรรมไฟฟ้า)
+วศ.ม. (วิศวกรรมคอมพิวเตอร์)
+วท.บ. (วิทยาการคอมพิวเตอร์)
+19 นางอุรฉัตร โคแก้ว
+3-3499-008XX-XX-X
+ผู้ช่วยศาสตราจารย์ ปร.ด. (วิธีการเรียนรู้ทาง
+อิเล็กทรอนิกส์)
+M.Sc. (Computer Science)
+วท.บ. (วิทยาการคอมพิวเตอร์),
+เกียรตินิยมอันดับ 2
+20 นางสาวอุราวรรณ จันทร์เกษ
+3-3302-001XX-XX-X
+ผู้ช่วยศาสตราจารย์ ปร.ด. (การรับรู้จากระยะไกลและ
+ระบบสารสนเทศภูมิศาสตร์)
+วท.ม. (การรับรู้จากระยะไกลและ
+ระบบสารสนเทศภูมิศาสตร์)
+วท.บ. (วิทยาศาสตร์สิ่งแวดล้อม)
+21 นายชานนท์ เดชสุภา
+X-XXX-XXXXX-XX-X
+อาจารย์
+วศ.ด. (วิศวกรรมคอมพิวเตอร์)
+วท.ม. (วิศวกรรมซอฟต์แวร์)
+วท.บ. (ระบบสารสนเทศ
+คอมพิวเตอร์)
+22 นายไพรสันต์ ผดุงเวียง
+X-XXX-XXXXX-XX-X
+อาจารย์
+ปร.ด. (วิทยาการคอมพิวเตอร์)
+วท.ม. (เทคโนโลยีสารสนเทศ)
+วท.บ. (ฟิสิกส์)
+23 นายเพชร อิ่มทองค า
+X-XXX-XXXXX-XX-X
+อาจารย์
+ปร.ด. (เทคโนโลยีสารสนเทศ)
+วท.ม. (เทคโนโลยีสารสนเทศ)
+วท.บ. (วิทยาการคอมพิวเตอร์)
+24 นายวชิราวุธ ธรรมวิเศษ
+5-4005-990XX-XX-X
+อาจารย์
+ปร.ด. (วิทยาการคอมพิวเตอร์)
+วท.ม. (วิทยาศาสตร์คอมพิวเตอร์)
+วท.บ. (วิทยาการคอมพิวเตอร์)
+ที่
+ชื่อ นามสกุล
+เลขประจ าตัวบัตร
+ประชาชน
+ต าแหน่งทาง
+วิชาการ
+คุณวุฒิ
+25 นางสาววรัญญา วรรณศรี
+1-4099-005XX-XX-X
+อาจารย์
+Ph.D. (Information Engineering)
+M.Eng. (Information and
+Communication Technology for
+Embedded Systems)
+วท.บ. (ศาสตร์คอมพิวเตอร์)
+26 นายศักดิ์พจน์ ทองเลี่ยมนาค
+3-3699-000XX-XX-X
+อาจารย์
+Ph.D. (Remote Sensing and
+Geographic Information
+Systems)
+วท.ม. (วิทยาการคอมพิวเตอร์)
+วศ.บ. (วิศวกรรมคอมพิวเตอร์)
+27 นายธนพล ตั้งชูพงศ์
+3-4099-010XX-XX-X
+อาจารย์
+M.Sc. (Computer Science)
+วศ.บ. (วิศวกรรมคอมพิวเตอร์)
+28 นายศรัณย์ อภิชนตระกูล
+3-1017-011XX-XX-X
+อาจารย์
+MGIS (Geographic Information
+Science)
+B.S. (Computer Science)
+3.2.3 อาจารย์พิเศษ
+ไม่มี
+4. องค์ประกอบเกี่ยวกับประสบการณ์ภาคสนาม (การฝึกงานหรือสหกิจศึกษา)
+หลักสูตรได้ก าหนดให้นักศึกษาที่จะออกปฏิบัติสหกิจศึกษาต้องมีการลงทะเบียนวิชาบังคับ รายวิชา SC 002 001 และ *SC
+373 784 โดยมีผลการประเมินผ่าน นักศึกษาจะฝึกงานในช่วงภาคการศึกษาพิเศษของชั้นปีที่ 3 จ านวนอย่างน้อย 200 ชั่วโมง จึงจะ
+สามารถลงทะเบียนเรียนในวิชาสหกิจศึกษาได้เพื่อสนับสนุนให้นักศึกษามีประสบการณ์ในวิชาชีพก่อนจบการศึกษา ทั้งนี้หากนักศึกษา
+มีการฝึกงานแต่มีเหตุให้ไม่สามารถลงทะเบียนในวิชาสหกิจได้ นักศึกษาสามารถเลือกลงเรียนวิชาโครงงานวิจัยในภูมิสารสนเทศศาสตร์
+แทนได้
+4.1 มาตรฐานผลการเรียนรู้ของประสบการณ์ภาคสนาม
+ความคาดหวังในผลการเรียนรู้ประสบการณ์ภาคสนามของนักศึกษา มีดังนี้
+1) ทักษะในการปฏิบัติงานจากสถานประกอบการ ตลอดจนมีความเข้าใจในหลักการ ความจ าเป็นในการเรียนรู้ทฤษฎี
+มากยิ่งขึ้น
+2) บูรณาการความรู้ที่เรียนมาเพื่อน าไปพัฒนาองค์ความรู้ด้านภูมิสารสนเทศศาสตร์ และน าไปปฏิบัติงานจริง
+3) มีมนุษย์สัมพันธ์และสามารถท างานร่วมกับผู้อื่นได้ดี
+4) มีระเบียบวินัย ตรงเวลา และเข้าใจวัฒนธรรมขององค์กร ตลอดจนสามารถปรับตัวให้เข้ากับหน่วยงาน
+5) มีความกล้าในการแสดงออก และน าความคิดสร้างสรรค์ไปใช้ประโยชน์ในงานได้
+6) มีทักษะการสื่อสารด้านการพูด เขียน คิดวิเคราะห์ประมวลผล
+4.2 ช่วงเวลา
+ภาคการศึกษาที่ 1 หรือ 2 ของชั้นปีการศึกษาที่ 4
+4.3 การจัดเวลาและตารางสอน
+เวลาการปฏิบัติเต็มเวลาใน 1 ภาคการศึกษา
+5. ข้อก าหนดเกี่ยวกับการท าโครงงานหรืองานวิจัย (ถ้ามี)
+5.1 ค าอธิบายโดยย่อ
+หัวข้อวิชาโครงงานวิจัยทางภูมิสารสนเทศศาสตร์ เป็นหัวข้อที่เกี่ยวข้องกับการรับรู้จากระยะไกลและระบบสารสนเทศ
+ภูมิศาสตร์ทั้งการวิจัยพื้นฐาน วิจัยประยุกต์ที่สามารถแก้ไขปัญหาเชิงพื้นที่และการออกแบบพัฒนาระบบด้านภูมิสารสนเทศ
+ศาสตร์ นักศึกษาจะต้องมีความสามารถในการเขียนข้อเสนอ รายงานการวิจัยทางด้านวิทยาศาสตร์ สามารถด าเนินการ
+วิเคราะห์ปัญหาเชิงพื้นที่ด้วยตนเอง และน าเสนอในรูปแบบที่เป็นสากล โดยมีขอบเขตของงานที่สามารถท าเสร็จภายใน
+ระยะเวลาที่ก าหนด
+5.2 มาตรฐานผลการเรียนรู้
+นักศึกษาสามารถท างานเป็นทีม มีการวิเคราะห์และออกแบบระบบ มีความเชี่ยวชาญในการใช้เครื่องมือ โปรแกรม ในการ
+ท าโครงงาน โครงงานสามารถเป็นต้นแบบในการพัฒนาต่อได้
+5.3 ช่วงเวลา
+ภาคการศึกษาที่ 1 - 2 ของปีการศึกษาที่ 4
+5.4 จ านวนหน่วยกิต
+6 หน่วยกิต
+5.5 การเตรียมการ
+ในปี 3 ภาคการศึกษาที่ 2 มีการเรียนวิชาระเบียบวิธีวิจัยในภูมิสารสนเทศศาสตร์เพื่อให้เข้าใจขั้นตอนโดยรวมของการวิจัย
+และในช่วงเวลาที่ศึกษามีการก าหนดชั่วโมงการให้ค าปรึกษา จัดท าบันทึกการให้ค าปรึกษา ให้ข้อมูลข่าวสารเกี่ยวกับระเบียบวิธี
+วิจัย ทางเวบไซด์ และปรับปรุงให้ทันสมัยเสมอ ให้นักศึกษารายงานความก้าวหน้าปัญหาอุปสรรคอย่างต่อเนื่องตลอดภาค
+การศึกษา
+5.6 กระบวนการประเมินผล
+ประเมินผลจากรายงานความก้าวหน้าในการท าระเบียบวิธีวิจัย สมุดบันทึกการให้ค าปรึกษา โดยอาจารย์ที่ปรึกษา และ
+ประเมินผลจากผลส าเร็จของระเบียบวิธีวิจัย โดยระเบียบวิธีวิจัยดังกล่าวต้องสามารถท างานได้ในเบื้องต้น และการจัดสอบการ
+น าเสนอ ที่มีอาจารย์สอบไม่ต ่ากว่า 3 คน
+หมวดที่ 5 หลักเกณฑ์ในการประเมินผลนักศึกษา
+
+1. กฎระเบียบหรือหลักเกณฑ์ในการให้ระดับคะแนน
+เป็นไปตามระเบียบมหาวิทยาลัยขอนแก่น ว่าด้วย การศึกษาขั้นปริญญาตรี พ.ศ. 2562 หมวดที่ 8 หรือระเบียบที่จะ
+ปรับปรุงใหม่
+2. กระบวนการทวนสอบมาตรฐานผลสัมฤทธิ์ของนักศึกษา
+อาจารย์ผู้สอนแต่ละรายวิชา ทวนสอบมาตรฐานผลสัมฤทธิ์ของนักศึกษาโดย
+2.1 เทียบเคียงผลการเรียนของนักศึกษาที่เรียนในรายวิชา ซึ่งอาจเป็น ต่างกลุ่ม ต่างชั้นปี ต่างคณะ แล้วแต่กรณี เพื่อน า
+ผลมาใช้ในการปรับปรุงรายวิชา
+2.2 ทบทวนเนื้อหารายวิชาทุกปีการศึกษา โดยอาจพิจารณาร่วมกับอาจารย์ผู้สอนรายวิชาอื่นที่มีเนื้อหาใกล้เคียงกัน เพื่อ
+ไม่ให้เกิดความซ ้าซ้อน หรือให้เกิดความสัมพันธ์และต่อเนื่อง แล้วแต่กรณี และทบทวนเนื้อหาโดยเทียบเคียงกับ
+รายวิชาของสถาบันอื่น หรือเทียบเคียงกับต าราหรือบทความทางวิชาการหรือผลการวิจัย เพื่อให้เกิดการพัฒนา
+เนื้อหาให้ทันสมัยและมีมาตรฐานทางวิชาการ
+2.3 ทบทวนและวิเคราะห์จากผลงานการท าระเบียบวิธีวิจัย
+3.
+เกณฑ์การส าเร็จการศึกษาตามหลักสูตร
+3.1 เป็นไปตามประกาศกระทรวงศึกษาธิการ เรื่อง เกณฑ์มาตรฐานหลักสูตรระดับปริญญาตรี พ.ศ. 2558
+3.2 เป็นไปตามระเบียบมหาวิทยาลัยขอนแก่น ว่าด้วย การศึกษาขั้นปริญญาตรี พ.ศ. 2562 หมวดที่ 9
+3.3 ต้องเรียนครบตามจ านวนหน่วยกิตที่ก าหนดไว้ในหลักสูตร และต้องได้ระดับคะแนนเฉลี่ยไม่ต ่ากว่า 2.00 จากระบบ 4
+ระดับคะแนนหรือเทียบเท่า และต้องมีระดับคะแนนเฉลี่ยสะสมของหมวดวิชาเฉพาะด้าน จ านวนไม่น้อยกว่า 2.00
+3.4 นักศึกษาต้องได้รับการทดสอบหรือได้รับการประเมินสมรรถนะทางภาษาอังกฤษก่อนส าเร็จการศึกษา
+ในรูปแบบใดรูปแบบหนึ่ง ตามหลักเกณฑ์ที่มหาวิทยาลัยก าหนด
+3.5 เข้าร่วมกิจกรรมการเรียนรู้แบบบูรณาการครบตามเกณฑ์ที่ก าหนด ตามประกาศของมหาวิทยาลัยขอนแก่นที่
+364/2564 เรื่อง หลักเกณฑ์การเข้าร่วมกิจกรรมการเรียนรู้แบบบูรณาการของนักศึกษามหาวิทยาลัยขอนแก่น
